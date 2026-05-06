@@ -1,0 +1,25 @@
+Session Title: 
+Build Your Test Lab: No Lab? No Problem!
+
+  Description:
+Creating a dedicated test environment is essential for safely testing software and updates, minimizing risk to production systems. Discover diverse resources for establishing lab environments at home or work, then learn automation methods for rapid, reproducible lab setups that enhance testing efficiency. Streamlined build processes lead to more timely and effective testing without the fear of disrupting production environments.
+
+What you will learn:
+ 
+* Identify local resources to set up a functional lab environment. 
+* Leverage cloud solutions for flexible lab capabilities and scalability.
+* Automate the lab build process for quick and smooth testing scenarios.
+* Implement hydration and point-in-time techniques for effective testing management.
+
+Speakers  
+
+
+ [Mattias Benninge](https://mms2026atmoa.sched.com/speaker/mattiasb)
+Principal Engineer, 2Pint Software
+Mattias has worked in the Endpoint Management space since ConfigMgr was called SMS and IOS was something only network people knew about. Currently he works as a Principal Engineer at 2Pint Software but during his career he has always had the goal to simplify and automate as much as...  [Read More ](https://mms2026atmoa.sched.com/speaker/mattiasb)
+
+ [Mike Terrill](https://mms2026atmoa.sched.com/speaker/mike_terrill.27sn475c)
+Principal Engineer, Microsoft MVP, 2Pint Software
+Mike is a Principal Engineer at 2Pint Software, specializing in the design and implementation of operating system deployments, operating system upgrades, peer-to-peer, bandwidth management, and PXE solutions as they related to various systems management platforms (Configuration Manager/Intune...  [Read More ](https://mms2026atmoa.sched.com/speaker/mike_terrill.27sn475c)
+
+

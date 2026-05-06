@@ -1,0 +1,25 @@
+Session Title: 
+Mastering Intune Driver Management: Insights and Best Practices
+
+  Description:
+Discover the intricacies of Intune's driver management solution, addressing the challenges faced by sysadmins in managing over 2 billion drivers. Learn how drivers are submitted to the Microsoft Update catalog, how Intune and Windows select appropriate drivers for devices, and assess the advantages and limitations of the system to ensure it meets organizational needs.
+
+What you will learn:
+ 
+* Learn to configure driver management effectively for your organization. 
+* Understand the criteria that Intune and Windows use to select drivers for devices.
+* Assess whether Intune's driver management solution aligns with your organization's requirements.
+* Identify potential pitfalls and best practices for successful driver management.
+
+Speakers  
+
+
+ [Bryan Dam](https://mms2026atmoa.sched.com/speaker/bryan_dam.28jno8u4)
+Patch Lover Extraordinaire - Patch My PC, Patch My PC
+I am a lover of all patches for Patch My PC. I've spent over 15 years as a system administrator, most recently at a large Midwest supermarket using Configuration Manager. I'm active in the online support communities and most days you'll find me on the SCCM subreddit or the WinAdmin's...  [Read More ](https://mms2026atmoa.sched.com/speaker/bryan_dam.28jno8u4)
+
+ [Thad Martin](https://mms2026atmoa.sched.com/speaker/thaddeusmartin)
+Principal Product Manager, Microsoft
+Thad Martin is a Principal Product Manager at Microsoft with over 20 years of experience, including more than a decade driving the architecture and evolution of Windows Update. His work spans update catalog services, client scan logic, and end‑to‑end servicing workflows for connected...  [Read More ](https://mms2026atmoa.sched.com/speaker/thaddeusmartin)
+
+

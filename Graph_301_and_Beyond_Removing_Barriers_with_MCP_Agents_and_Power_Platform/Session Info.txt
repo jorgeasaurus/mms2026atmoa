@@ -1,0 +1,25 @@
+Session Title: 
+Graph 301 and Beyond: Removing Barriers with MCP Agents and Power Platform
+
+  Description:
+Elevate Microsoft Graph expertise by diving deeper into operationalizing its capabilities with AI. This advanced session builds on Graph 101 concepts, focusing on understanding the underlying mechanics of agentic AI in workflows. Explore the Microsoft MCP Agent, Lokka, and their integration with Power Platform to unlock innovative possibilities in your environment.
+
+What you will learn:
+ 
+* Leverage MCP Agents in Visual Studio Code to accelerate learning, exploration, and development. 
+* Utilize Custom Connectors in Power Platform for low-risk, low-code solutions that simplify AI entry.
+* Harness AI as a skill multiplier, enabling a focus on higher-priority tasks and strategic initiatives.
+* Discover practical strategies for integrating agentic AI to maximize efficiency and productivity.
+
+Speakers  
+
+
+ [Steven Hosking](https://mms2026atmoa.sched.com/speaker/steven44)
+Customer Experience Product Manager - Windows, Microsoft
+With over 20 years of experience in end use compute management, across internal, consultant, and now Vendor, Steven can provide a unique point of view. He is also one of the founding members of the highly popular Intune.training series.
+
+ [Sean Bulger](https://mms2026atmoa.sched.com/speaker/sean_bulger.27so1hq4)
+Cloud Endpoint Solution Engineer, Microsoft
+Sean is a Cloud Endpoint Technical Specialist at Microsoft. Prior to joining Microsoft, he was a consulting engineer at a large partner and an Enterprise Mobility MVP. Sean credits the community for empowering him to grow personally and professionally and seeks to encourage others...  [Read More ](https://mms2026atmoa.sched.com/speaker/sean_bulger.27so1hq4)
+
+

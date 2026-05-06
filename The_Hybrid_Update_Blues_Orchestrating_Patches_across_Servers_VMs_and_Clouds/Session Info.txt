@@ -1,0 +1,26 @@
+Session Title: 
+The Hybrid Update Blues: Orchestrating Patches across Servers, VMs, and Clouds
+
+  Description:
+Effective patch management is crucial for maintaining robust architectures. Learn strategies to orchestrate updates seamlessly across Azure Local, Hyper-V clusters, standalone servers, Arc-managed machines, and Azure VMs while avoiding disruptions that could jeopardize your environment’s stability. Equip yourself with actionable techniques to coordinate patching in complex hybrid setups.
+
+What you will learn:
+ 
+* Implement effective update strategies for clusters and Azure Local environments. 
+* Explore Arc-enabled update management patterns to enhance patching success.
+* Master coordinated patching techniques across hybrid infrastructure environments.
+* Discover best practices to avoid update-induced disruptions in your systems.
+
+Speakers  
+
+
+ [Matthew Wetherell](https://mms2026atmoa.sched.com/speaker/mwetherell)
+Infrastructure Manager, USNR
+
+
+
+ [Kristopher Turner](https://mms2026atmoa.sched.com/speaker/kristopher_turner.28jia95x)
+Microsoft MVP, Hybrid Cloud Solutions
+Kristopher Turner is a Microsoft MVP in Azure, a Microsoft Certified Trainer (MCT), and a Product Technology Architect at TierPoint, where he focuses on delivering innovative cloud and infrastructure solutions. With expertise spanning Azure Local, Azure Arc, Kubernetes, and disaster...  [Read More ](https://mms2026atmoa.sched.com/speaker/kristopher_turner.28jia95x)
+
+

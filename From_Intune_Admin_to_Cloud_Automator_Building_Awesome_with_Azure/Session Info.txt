@@ -1,0 +1,27 @@
+Session Title: 
+From Intune Admin to Cloud Automator: Building Awesome with Azure
+
+  Description:
+Transform from an everyday Intune admin to a cloud automation wizard by leveraging Azure Functions, Logic Apps, and Microsoft Graph. Capture the power of these tools to create custom workflows, automate repetitive tasks, and address challenges previously thought insurmountable. Walk through practical examples demonstrating API connectivity and action triggers, ensuring you depart with the confidence and skills to build impactful solutions.
+
+What you will learn:
+ 
+* Achieve exceptional results by expanding beyond native functionality using Azure tools. 
+* Implement Azure services securely and in a repeatable manner, ensuring consistent automation.
+* Access real-world examples, complete with code snippets to help you visualize solutions.
+* Gain the know-how to confidently create and deploy your own cloud solutions with Azure.
+
+Speakers  
+
+
+ [Maurice Daly](https://mms2026atmoa.sched.com/speaker/maurice.daly)
+Microsoft MVP, Senior Security Architect, Patch My PC
+Maurice has been working in the IT industry for the past 25 years. His focus is on the areas of Windows deployment, device management, Entra ID security, and secure productivity. Maurice has been an MCSE since 2008 and received his first MVP award in Enterprise Mobility (now Security...  [Read More ](https://mms2026atmoa.sched.com/speaker/maurice.daly)
+
+ [David Brook](https://mms2026atmoa.sched.com/speaker/david_brook.27tenjix)
+Managing Consultant & Microsoft MVP, CloudXP Ltd
+David, a distinguished Microsoft MVP in the Security category, brings a wealth of expertise in Microsoft Intune and Device Management capabilities. _x000D_
+ _x000D_
+ Beyond his specialisation, David's versatility shines as he navigates the breadth of the Microsoft ecosystem, seamle...  [Read More ](https://mms2026atmoa.sched.com/speaker/david_brook.27tenjix)
+
+

@@ -1,0 +1,12 @@
+Session Title: 
+Why Third-Party Patching Is Still a Mess (and How to Fix It)
+
+  Third-party patching is one of those things everyone agrees is important and almost nobody actually has under control. This exposes organizations to data breaches. That's where we come in, and we brought a whole team to talk about how.
+
+Even in well-run environments, the process tends to devolve into some combination of manual packaging, rushed testing, browser chaos, long-tail app nonsense, and reporting that may or may not be telling the truth. The result: too much overhead, too many blind spots, and way too many people saying “I’m pretty sure it’s patched.”
+
+We’ll break down the biggest reasons third-party patching still falls apart in enterprise environments and what it takes to make the process more scalable, predictable, and dramatically less annoying. We’ll cover what slows teams down, where risk likes to hide, and how to build a patching strategy that doesn’t rely on tribal knowledge, crossed fingers, and one extremely tired admin. Come for the technical reality check. Leave with ideas you can actually use.
+
+
+
+

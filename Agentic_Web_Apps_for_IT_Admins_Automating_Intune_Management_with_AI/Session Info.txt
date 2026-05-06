@@ -1,0 +1,27 @@
+Session Title: 
+Agentic Web Apps for IT Admins: Automating Intune Management with AI
+
+  Description:
+Streamline Intune device and application management by building Agentic Web Applications that utilize AI-driven workflows. Simplify compliance, automate patching, and optimize app deployments through conversational commands and context-aware agents. Transform IT operations into smarter, faster, and more efficient processes by harnessing the power of intelligent automation.
+
+What you will learn:
+ 
+* Grasp the significance of Agentic Web Apps and their value for IT Admins. 
+* Integrate Intune APIs and Windows Autopatch APIs into effective AI-driven workflows.
+* Learn best practices for designing secure, scalable agentic apps tailored for enterprise needs.
+* Develop your own automation app for compliance remediation and efficient app deployment.
+
+Speakers  
+
+
+ [Ken Goossens](https://mms2026atmoa.sched.com/speaker/ken_goosens.29bhu3nc)
+Senior CE Product Manager, Microsoft
+
+
+
+
+ [Surabhi Calla](https://mms2026atmoa.sched.com/speaker/surabhicallamicrosoftcom.29du7neq)
+Senior Product Manager, Microsoft
+A Senior Product Manager at Microsoft, specializing in Autopatch and Windows Update Management. Focused on building customer-centric solutions, driving automation, and optimizing enterprise update management.
+
+

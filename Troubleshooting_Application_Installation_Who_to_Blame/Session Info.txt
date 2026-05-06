@@ -1,0 +1,26 @@
+Session Title: 
+Troubleshooting Application Installation: Who to Blame?
+
+  Description:
+Diagnose Intune application installation failures through a systematic approach that identifies whether the issue is with the deployment tool, application, or device. Gain insights into log file analysis and common pitfalls while sharing real-world scenarios. This engaging session balances troubleshooting with humor, preparing attendees to effectively tackle installation challenges with confidence.
+
+What you will learn:
+ 
+* Identify the specific point of failure in the application installation process. 
+* Interpret log files to uncover insightful details about installation issues.
+* Recognize common errors and learn effective identification techniques.
+* Engage with practical experiences and strategies to enhance troubleshooting capabilities.
+Provide Feedback
+
+Speakers  
+
+
+ [Jim O'Neil](https://mms2026atmoa.sched.com/speaker/jim_oneil.28jia8vk)
+Customer Engineer, Patch My PC
+Customer Engineer with Patch My PC and former Twin Cities Systems Management User-Group (TCSMUG) official. A two-time MMS speaker, Jim focuses on automating Application Lifecycle Management and Endpoint Management. He is passionate about bridging the gap between complex infrastructure...  [Read More ](https://mms2026atmoa.sched.com/speaker/jim_oneil.28jia8vk)
+
+ [Bryan Dam](https://mms2026atmoa.sched.com/speaker/bryan_dam.28jno8u4)
+Patch Lover Extraordinaire - Patch My PC, Patch My PC
+I am a lover of all patches for Patch My PC. I've spent over 15 years as a system administrator, most recently at a large Midwest supermarket using Configuration Manager. I'm active in the online support communities and most days you'll find me on the SCCM subreddit or the WinAdmin's...  [Read More ](https://mms2026atmoa.sched.com/speaker/bryan_dam.28jno8u4)
+
+

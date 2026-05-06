@@ -1,0 +1,25 @@
+Session Title: 
+No Code, Big Impact: Harnessing Copilot Studio for Admin Tasks
+
+  Description:
+Transform AI hype into practical solutions with Microsoft Copilot Studio. Gain insights into its functionalities, connection to your environment, and utilization of connectors to manage and access data—all without writing a single line of code. Streamline support tasks with simple, actionable steps and explore the potential of Copilot-powered agents to inspire IT professionals in enhancing their workflows.
+
+What you will learn:
+ 
+* Lower the barrier to AI entry with simple strategies using Copilot Studio. 
+* Leverage low-code integration with Power Platform for seamless development.
+* Scale Copilot Studio agents through Microsoft MCP Server and custom connectors.
+* Discover practical examples of creating agents to assist IT professionals with daily tasks.
+
+Speakers  
+
+
+ [Matt Zaske](https://mms2026atmoa.sched.com/speaker/matt_zaske.27sn4e6k)
+Developer/Fleet Admin, University of Minnesota
+Matt is an IT professional with over 25 years of experience who brings a unique blend of technical expertise and creative flair to the table. His background bridges several IT disciplines including endpoint management, server administration (Linux and Windows), and applications architecture...  [Read More ](https://mms2026atmoa.sched.com/speaker/matt_zaske.27sn4e6k)
+
+ [Sean Bulger](https://mms2026atmoa.sched.com/speaker/sean_bulger.27so1hq4)
+Cloud Endpoint Solution Engineer, Microsoft
+Sean is a Cloud Endpoint Technical Specialist at Microsoft. Prior to joining Microsoft, he was a consulting engineer at a large partner and an Enterprise Mobility MVP. Sean credits the community for empowering him to grow personally and professionally and seeks to encourage others...  [Read More ](https://mms2026atmoa.sched.com/speaker/sean_bulger.27so1hq4)
+
+

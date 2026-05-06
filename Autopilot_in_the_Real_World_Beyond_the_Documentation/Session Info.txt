@@ -1,0 +1,25 @@
+Session Title: 
+Autopilot in the Real World: Beyond the Documentation
+
+  Description:
+Real-world Autopilot deployments reveal complexities often omitted in Microsoft Docs, such as timing issues, app failures, and user experience challenges. Gain insights into configuring effective Autopilot profiles that ensure reliable performance across different hardware vendors and user scenarios. Learn what aspects to prioritize and which configurations to bypass, resulting in a smoother user experience and improved deployment outcomes.
+
+What you will learn:
+ 
+* Understand the critical dependencies of Autopilot during provisioning to enhance reliability. 
+* Discover methods to simplify the Enrollment Status Page (ESP) while maintaining control over the process.
+* Enhance end-user experiences without compromising on security during deployment.
+* Gain actionable insights for configuring Autopilot profiles that ensure consistent performance across various environments.
+
+Speakers  
+
+
+ [Rudy Ooms](https://mms2026atmoa.sched.com/speaker/info15025)
+Call4cloud | MVP | Mister MDM, Patch My PC
+Rudy Ooms works as a Content Creator Manager at Patch My PC as of June 2024. He utilizes his extensive IT experience to create and manage content, particularly focusing on Microsoft Intune, Windows Autopilot, and Endpoint Privilege Management (EPM).One of his hobbies (next to drinking...  [Read More ](https://mms2026atmoa.sched.com/speaker/info15025)
+
+ [Steve Weiner](https://mms2026atmoa.sched.com/speaker/steve_weiner.27sn40ya)
+Microsoft MVP, Principal Architect, Rubix
+When the news of becoming a dad of twins turned me from professional drummer to professional computer nerd, I started work as a presales MDM engineer. Then, Windows 10 came along with incredible Surface devices and a new way to manage them. Since that time in early 2016, I have become...  [Read More ](https://mms2026atmoa.sched.com/speaker/steve_weiner.27sn40ya)
+
+

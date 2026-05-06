@@ -1,0 +1,29 @@
+Session Title: 
+Secure Boot Certificates: 2026 Edition
+
+  Description:
+Gain insights into the evolving landscape of Black Lotus remediations with a focus on KB5025885. Learn effective methods for updating Secure Boot to mitigate CVE-2023-24932. Whether new to Black Lotus or advancing your strategies, this session equips you with essential information to ensure a successful implementation phase.
+
+What you will learn:
+ 
+* Identify various methods for applying the latest Black Lotus remediations successfully. 
+* Explore efficient testing and deployment strategies to ensure smooth transitions.
+* Learn best practices for managing boot media, recovery media, and PXE booting.
+* Understand how to enforce revocations and maintain a steady state post-remediation.
+
+Speakers  
+
+
+ [Mike Terrill](https://mms2026atmoa.sched.com/speaker/mike_terrill.27sn475c)
+Principal Engineer, Microsoft MVP, 2Pint Software
+Mike is a Principal Engineer at 2Pint Software, specializing in the design and implementation of operating system deployments, operating system upgrades, peer-to-peer, bandwidth management, and PXE solutions as they related to various systems management platforms (Configuration Manager/Intune...  [Read More ](https://mms2026atmoa.sched.com/speaker/mike_terrill.27sn475c)
+
+ [Gary Blok](https://mms2026atmoa.sched.com/speaker/gary_blok.7z9ifl8)
+Engineer, 2Pint Software
+Working on Intune & ConfigMgr along with Azure to develop improvements in endpoint management and reporting.
+
+I've worked in several areas over the past year, hardware OEM, finacial, state government, small startups, K-12, higher ed, and consulting.
+
+Best known for blogging on GARYTOWN, mostly around OSD, WaaS and task sequences in general...  [Read More ](https://mms2026atmoa.sched.com/speaker/gary_blok.7z9ifl8)
+
+

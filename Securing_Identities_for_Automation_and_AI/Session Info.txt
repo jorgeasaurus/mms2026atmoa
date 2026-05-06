@@ -1,0 +1,27 @@
+Session Title: 
+Securing Identities for Automation and AI
+
+  Description:
+As automation and AI operate at machine speed, securing identities in Microsoft Entra (Azure AD) is critical. Learn best practices for managing unattended task identities, covering application vs. dedicated permissions, identity types, and enforcing least privilege. Gain insights into Agent ID in Microsoft Entra and understand how to structure your identity management to stay resilient against evolving threats.
+
+What you will learn:
+ 
+* Gain clarity on authentication, authorization, and permissions context. 
+* Discover the essentials of identities, including Users, Service Principals, and Managed Identities.
+* Align use cases with identity types for optimized security strategies.
+* Prepare for future advancements by connecting workload IDs with AI use cases.
+
+Speakers  
+
+
+ [David Brook](https://mms2026atmoa.sched.com/speaker/david_brook.27tenjix)
+Managing Consultant & Microsoft MVP, CloudXP Ltd
+David, a distinguished Microsoft MVP in the Security category, brings a wealth of expertise in Microsoft Intune and Device Management capabilities. _x000D_
+ _x000D_
+ Beyond his specialisation, David's versatility shines as he navigates the breadth of the Microsoft ecosystem, seamle...  [Read More ](https://mms2026atmoa.sched.com/speaker/david_brook.27tenjix)
+
+ [Sean Bulger](https://mms2026atmoa.sched.com/speaker/sean_bulger.27so1hq4)
+Cloud Endpoint Solution Engineer, Microsoft
+Sean is a Cloud Endpoint Technical Specialist at Microsoft. Prior to joining Microsoft, he was a consulting engineer at a large partner and an Enterprise Mobility MVP. Sean credits the community for empowering him to grow personally and professionally and seeks to encourage others...  [Read More ](https://mms2026atmoa.sched.com/speaker/sean_bulger.27so1hq4)
+
+

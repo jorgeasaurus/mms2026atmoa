@@ -1,0 +1,28 @@
+Session Title: 
+Real-World Insights from Microsoft Purview Implementations
+
+  Description:
+Implementing Microsoft Purview effectively can be complex, with common challenges often arising during deployments. Discover hard-earned lessons that highlight what consistently works, common pitfalls, and critical factors like stakeholder alignment and user adoption that drive success. Topics include achieving classification accuracy, designing effective policies, and enhancing operational maturity, providing actionable insights for successful Purview implementations in your own environments.
+
+What you will learn:
+ 
+* Identify critical pitfalls in Microsoft Purview implementations, focusing on mistakes in scoping, sequencing, and stakeholder alignment that derail projects early. 
+* Understand how user adoption and classification accuracy are vital for long-term success, and how poor foundations can undermine DLP and Insider Risk controls.
+* Learn effective strategies from real-world Purview deployments based on practical experiences rather than theoretical models or marketing guidance.
+* Gain actionable recommendations to accelerate Purview maturity, covering everything from policy design to operational processes to implement immediately.
+Provide Feedback
+
+Speakers  
+
+
+ [Rod Trent](https://mms2026atmoa.sched.com/speaker/rod_trent.28kie72h)
+Senior Product Manager, Microsoft
+Rod Trent is a Senior Product Manager and Security MVP Lead for Microsoft where he focuses on the intersection between Security and AI. In his spare time, Rod writes KQL queries, authors fiction and non-fiction books, tells proud stories about his grandkids, brags about his Six Million...  [Read More ](https://mms2026atmoa.sched.com/speaker/rod_trent.28kie72h)
+
+ [Ewelina Paczkowska](https://mms2026atmoa.sched.com/speaker/ewelinapaczkowska)
+Data Security & Governance Lead, Threatscape
+MVP, Data Security & Governance Lead, Microsoft 355 Security & Compliance User group co-organiser, creator of welkasworld.com
+
+
+
+

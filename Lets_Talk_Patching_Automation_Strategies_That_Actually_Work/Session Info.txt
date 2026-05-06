@@ -1,0 +1,15 @@
+Session Title: 
+Let’s Talk Patching: Automation Strategies That Actually Work
+
+  Keeping endpoints patched is one of IT's most important and frustrating jobs. Vulnerabilities can be exploited in days, but most organizations take months to fix them. Without automation, keeping up is nearly impossible.AJ Singh*, NinjaOne's VP of Field Product Management, will show you how to build a modern automated patch management system, reduce repetitive work, and extend automation into broader endpoint security workflows.We'll close with a demo, and you’ll leave with ideas to keep your endpoints secure.
+
+* Build a patching operation that runs itself - learn how policy-based automation in NinjaOne handles OS and third-party patch deployment, approval workflows, and failure remediation with minimal manual intervention.
+* Automation compounds your team’s impact - discover how the same automation framework that powers patching can be extended to detect and remediate broader endpoint issues, giving one technician the ability to manage thousands of devices effectively.
+* See it live, take it home - walk away from the NinjaOne demo with concrete, ready-to-use automation strategies and an understanding of how to implement them in your own environment from day one.
+*AJ Singh is the VP, Field Product Management at NinjaOne. With 20 years of experience in the IT space, AJ began his career as an engineer, before transitioning into managed services. At NinjaOne, AJ focuses on product management, business strategy, and integrations.
+
+
+
+
+
+

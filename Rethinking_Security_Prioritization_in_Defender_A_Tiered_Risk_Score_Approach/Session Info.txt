@@ -1,0 +1,28 @@
+Session Title: 
+Rethinking Security Prioritization in Defender: A Tiered Risk Score Approach
+
+  Description:
+Facing an overwhelming volume of high and critical recommendations in Defender can hinder effective security management. This session presents a tier-based risk analysis model that integrates security impact with real-world consequences to generate a custom risk score, mapped into actionable priority tiers (Tier 0–3). Learn how relying solely on severity fails prioritization and how to align remediation efforts with business-critical assets for streamlined decision-making.
+
+What you will learn:
+ 
+* Understand why relying solely on high and critical severity is insufficient for effective prioritization. 
+* Learn to calculate risk using impact assessments and real-world consequences for more informed decisions.
+* Utilize Tier 0–3 to effectively rank and prioritize actionable security recommendations.
+* Align security actions strategically with business-critical assets to ensure focused remediation efforts.
+Provide Feedback
+
+Speakers  
+
+
+ [Morten Knudsen](https://mms2026atmoa.sched.com/speaker/morten_knudsen.27sn3yb1)
+Triple Microsoft MVP (Security, Azure, Security Copilot) | MCT | Security & Cloud Architect | Co-Founder Experts Live De, 2LINKIT
+Morten is a Triple Microsoft MVP (Security, Azure, and Security Copilot), a Microsoft Certified Trainer, and holds over 17 active Microsoft certifications.
+
+As a Cloud and Security Architect, he focuses on Azure infrastructure, Microsoft 365, automation, security, AI, and hybrid cl...  [Read More ](https://mms2026atmoa.sched.com/speaker/morten_knudsen.27sn3yb1)
+
+ [Blake Cherry](https://mms2026atmoa.sched.com/speaker/blake_cherry.27xxdwaq)
+Principal in Cybersecurity & Enterprise Technology, West Monroe
+Blake is a Principal in West Monroe's Technology practice, operating out of Chicago, IL. Known for accelerating the delivery of best practice infrastructure by leveraging infrastructure as code, his expertise lies in Azure, Microsoft 365, and Infrastructure Automation, with a specialized...  [Read More ](https://mms2026atmoa.sched.com/speaker/blake_cherry.27xxdwaq)
+
+

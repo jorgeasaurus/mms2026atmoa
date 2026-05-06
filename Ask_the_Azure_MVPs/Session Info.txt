@@ -1,0 +1,15 @@
+Session Title: 
+Ask the Azure MVPs
+
+  Description:
+Engage with Azure MVPs while enjoying refreshments and get your burning questions answered. The experts will share insights and valuable information, helping clarify complex topics and provide guidance for your Azure projects. This interactive session ensures that no question goes unanswered, offering attendees a chance to dive deeper into Azure technologies and solutions.
+
+What you will learn:
+ 
+* Gain expert answers to your Azure-related questions directly from the MVPs. 
+* Discover insights that enhance your understanding of Azure technologies.
+* Benefit from a collective Q
+
+
+
+
