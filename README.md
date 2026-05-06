@@ -1,4 +1,4 @@
-# MMS 2026 ATMOA Content
+# MMS 2026 At MOA Content
 
 This repository contains session materials for MMS 2026 ATMOA.
 
