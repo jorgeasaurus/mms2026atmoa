@@ -1,0 +1,25 @@
+Session Title: 
+Onboard, Maintain, Destroy: The Secure Application Lifecycle
+
+  Description:
+Effective application management transcends packaging and deployment, serving as a vital security discipline. Implement a robust framework for Application Lifecycle Management (ALM) that encompasses strategic onboarding through to vigilant retirement. Streamline approvals involving Architecture, Security, and Legal, enforce clear application ownership, and utilize automated tools to identify and eliminate 'zombie apps'. Align your procedures with security objectives, ensuring each application is thoroughly vetted, actively maintained, or responsibly retired.
+
+What you will learn:
+ 
+* Establish a tailored application onboarding framework that identifies key stakeholders (Security, Legal, Architecture) and automates the approval workflow for thorough vetting before deployment. 
+* Ensure accountability by tracking application ownership, assigning business owners for every app to manage licensing, justification, and lifecycle decisions effectively.
+* Automate workstreams for packaging and publishing to ConfigMgr/Intune, bridging security and operations to manage vulnerabilities and updates throughout the application lifecycle.
+* Utilize a provided checklist for planning application end-of-life, leveraging automated tools to identify and retire 'zombie apps,' thereby minimizing your attack surface.
+
+Speakers  
+
+
+ [Michael Escamilla](https://mms2026atmoa.sched.com/speaker/michael.escamilla)
+Customer Engineer, Patch My PC
+I am a Customer Engineer at Patch My PC helping customers secure their environments by ensuring their third-part applications are patched. I have spent my career working heavily within Microsoft Intune and Configuration Manager focusing on OS Deployment and Application Deployment...  [Read More ](https://mms2026atmoa.sched.com/speaker/michael.escamilla)
+
+ [Jim O'Neil](https://mms2026atmoa.sched.com/speaker/jim_oneil.28jia8vk)
+Customer Engineer, Patch My PC
+Customer Engineer with Patch My PC and former Twin Cities Systems Management User-Group (TCSMUG) official. A two-time MMS speaker, Jim focuses on automating Application Lifecycle Management and Endpoint Management. He is passionate about bridging the gap between complex infrastructure...  [Read More ](https://mms2026atmoa.sched.com/speaker/jim_oneil.28jia8vk)
+
+

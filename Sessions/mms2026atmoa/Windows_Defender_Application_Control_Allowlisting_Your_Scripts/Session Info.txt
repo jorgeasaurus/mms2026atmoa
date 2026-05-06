@@ -1,0 +1,16 @@
+Session Title: 
+Windows Defender Application Control: Allowlisting Your Scripts
+
+  Description:
+Implementing Windows Defender Application Control (AppControl) enforces allowlisting for popular scripting languages such as PowerShell, VBScript, and JavaScript unless intentionally disabled. Gain insights into minimizing the operational impact of script allowlisting while maximizing security benefits. Discover how to navigate script policies effectively as an Endpoint Management admin and articulate the real-world advantages of a robust allowlisting strategy.
+
+What you will learn:
+ 
+* Understand the impact of script allowlisting on daily systems management tasks and operations. 
+* Navigate effectively as an Endpoint Management admin in environments with enforced script allowlisting.
+* Articulate the real-world benefits of implementing script allowlisting in your organization.
+* Learn strategies to minimize operational challenges while enhancing security through script allowlisting.
+
+
+
+

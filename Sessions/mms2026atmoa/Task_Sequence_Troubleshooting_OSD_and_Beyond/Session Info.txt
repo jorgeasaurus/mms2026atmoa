@@ -1,0 +1,29 @@
+Session Title: 
+Task Sequence Troubleshooting: OSD and Beyond
+
+  Description:
+Navigating the intricacies of OSD Task Sequences is essential for effective device provisioning, especially in large and hybrid environments. Uncover troubleshooting strategies that demystify the underlying processes of Task Sequences while gaining insights into tools and methods for real-time success. Discover pro tips to simplify maintenance and leverage Task Sequences for innovative applications beyond traditional OSD.
+
+What you will learn:
+ 
+* Explore essential tools and methods for effective Task Sequence troubleshooting. 
+* Gain a deep understanding of Task Sequence operations and their complexities.
+* Identify automation ideas to maximize flexibility and streamline processes.
+* Discover creative applications of Task Sequences that extend beyond OSD.
+
+Speakers  
+
+
+ [Gary Blok](https://mms2026atmoa.sched.com/speaker/gary_blok.7z9ifl8)
+Engineer, 2Pint Software
+Working on Intune & ConfigMgr along with Azure to develop improvements in endpoint management and reporting.
+
+I've worked in several areas over the past year, hardware OEM, finacial, state government, small startups, K-12, higher ed, and consulting.
+
+Best known for blogging on GARYTOWN, mostly around OSD, WaaS and task sequences in general...  [Read More ](https://mms2026atmoa.sched.com/speaker/gary_blok.7z9ifl8)
+
+ [Matt Zaske](https://mms2026atmoa.sched.com/speaker/matt_zaske.27sn4e6k)
+Developer/Fleet Admin, University of Minnesota
+Matt is an IT professional with over 25 years of experience who brings a unique blend of technical expertise and creative flair to the table. His background bridges several IT disciplines including endpoint management, server administration (Linux and Windows), and applications architecture...  [Read More ](https://mms2026atmoa.sched.com/speaker/matt_zaske.27sn4e6k)
+
+

@@ -1,0 +1,16 @@
+Session Title: 
+Cloud-native Server Management: Unleashing the Power of Azure Everywhere
+
+  Description:
+Harness the power of cloud-native server management in Azure for seamless management of Windows and Linux machines across any environment. Gain insights into Azure’s features like patch management, monitoring, endpoint security, and OS configuration. Learn best practices for transitioning from ConfigMgr to Azure, empowering your organization with scalable and flexible server management solutions that are location-independent.
+
+What you will learn:
+ 
+* Utilize Azure's cloud-native server management for centralized patching, monitoring, endpoint security, and OS configuration across Windows and Linux. 
+* Transition your Group Policy Object (GPO) settings to cloud-native alternatives for increased insight and effectiveness.
+* Explore the capabilities of Azure’s cloud-native server management tools to optimize IT efficiencies.
+* Implement best practices for a smooth migration from ConfigMgr to Azure, enhancing server management processes.
+
+
+
+

@@ -1,0 +1,16 @@
+Session Title: 
+Designing Intune for Scale: Best Practices from Thousands of Devices
+
+  Description:
+Intune excels in small environments, but scalability challenges often arise as device counts increase. Dive into critical Intune architecture strategies that effectively scale, including policy design, group strategy, naming conventions, and lifecycle management. Real customer case studies will reveal common pitfalls, how to prevent technical debt, and design principles to ensure future administrators are set up for success.
+
+What you will learn:
+ 
+* Implement proven group and assignment strategies tailored for large-scale environments. 
+* Identify and avoid frequent policy and profile sprawl errors to maintain system integrity.
+* Establish an Intune infrastructure designed for seamless growth and adaptability.
+* Gain insights from real-world examples to prevent future administration challenges.
+
+
+
+

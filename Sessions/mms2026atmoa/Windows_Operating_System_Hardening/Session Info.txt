@@ -1,0 +1,25 @@
+Session Title: 
+Windows Operating System Hardening
+
+  Description:
+Defend against modern threats as attackers increasingly exploit legitimate access. Learn practical, proven techniques for hardening Windows clients and servers within hybrid and identity-driven environments. This session delves into effective OS-level hardening strategies, tackling local and remote attack vectors, minimizing workstation vulnerabilities across services and networks, and enhancing server defenses for often-overlooked roles, ensuring robust security across all facets of your infrastructure.
+
+What you will learn:
+ 
+* Implement essential OS-level hardening steps necessary for every environment. 
+* Identify modern local and remote attack vectors and discover strategies to block them.
+* Reduce the workstation surface area by hardening browsers, services, network stacks, and more.
+* Explore server-specific hardening patterns for roles frequently neglected in security protocols.
+
+Speakers  
+
+
+ [Mikael Nyström](https://mms2026atmoa.sched.com/speaker/mikael_nystrom.27sn47jl)
+Microsoft MVP, Geek, Truesec
+I am veteran of the industry and I can honestly tell you that I am not your regular consultant. I change wrong into right and explain the “why” behind it to make sure that you, my client, understands, trust, and buys-in to the path that we continue on. As a long time Microsoft...  [Read More ](https://mms2026atmoa.sched.com/speaker/mikael_nystrom.27sn47jl)
+
+ [Michael Niehaus](https://mms2026atmoa.sched.com/speaker/michael_niehaus.29cuco8l)
+Programme Director and Master Inventor, 2Pint Software, 2Pint Software
+Michael Niehaus is a Programme Director and Master Inventor at 2Pint Software, working on device management and OS deployment technologies. Previously, Michael spent 16 years at Microsoft working on MDT, Windows as a Service, Windows Autopilot, and related management and deployment...  [Read More ](https://mms2026atmoa.sched.com/speaker/michael_niehaus.29cuco8l)
+
+

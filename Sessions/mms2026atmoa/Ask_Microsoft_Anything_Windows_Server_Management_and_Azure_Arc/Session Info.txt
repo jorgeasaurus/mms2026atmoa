@@ -1,0 +1,16 @@
+Session Title: 
+Ask Microsoft Anything: Windows Server Management and Azure Arc
+
+  Description:
+Engage in an interactive roundtable with Microsoft experts on modern Windows Server management and the transition from traditional ConfigMgr approaches to Azure Arc-enabled hybrid management. Bring your questions and challenges to shape an open conversation about practical strategies and insights for managing on-premises servers and exploring the future of cloud integration in your environment.
+
+What you will learn:
+ 
+* Understand current approaches and emerging directions for managing Windows Server in hybrid environments. 
+* Learn how Azure Arc integrates with the transition from traditional ConfigMgr-centric management models.
+* Explore real-world challenges and opportunities when connecting existing server estates to Microsoft management capabilities.
+* Receive direct answers and share feedback on your scenarios, concerns, and lessons with Microsoft product leaders.
+
+
+
+

@@ -1,0 +1,32 @@
+Session Title: 
+Master PowerShell Authoring and Publishing Scripts and Modules
+
+  Description:
+Develop robust and reusable PowerShell scripts and modules using VS Code. Gain insights into script structure, module design, error handling, and documentation standards. Learn to utilize GitHub Repositories for version control, enabling collaboration and automation of workflows through GitHub Actions. Author Intune Remediations and Platform Scripts while mastering safe deployment practices, ensuring that your scripts are well-structured and ready for maintenance and publication.
+
+What you will learn:
+ 
+* Design and structure reusable PowerShell modules with best practices for manifests, folders, functions, and documentation standards. 
+* Create Intune Remediations and Platform Scripts incorporating detection logic, remediation patterns, and robust error handling.
+* Utilize GitHub Repositories for version control and collaboration, automating testing and publishing processes with GitHub Actions.
+* Learn to publish and maintain modules, including versioning techniques and the self-publishing workflow for PowerShell Gallery.
+
+Speakers  
+
+
+ [David Segura](https://mms2026atmoa.sched.com/speaker/david_segura.27tenlxt)
+Senior Software Engineer, Recast Software
+I've just started at Recast Software working on OSDCloud as a Senior Software Engineer.
+While I am a Microsoft MVP in PowerShell, all of my community content is focused Windows OS Deployment.
+I'm most well known for OSDCloud, the OSD PowerShell Module, and OSDBuilder.
+
+
+...  [Read More ](https://mms2026atmoa.sched.com/speaker/david_segura.27tenlxt)
+
+ [Travis Roberts](https://mms2026atmoa.sched.com/speaker/travis_roberts.27tenm80)
+MVP, MCT, Sr Technical Trainer @ Nerdio, Blogger and Enthusiast, Ciraltos llc
+
+
+
+
+

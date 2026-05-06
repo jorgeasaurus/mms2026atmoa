@@ -1,0 +1,27 @@
+Session Title: 
+Windows 11 Security Management: Baselines, Keys, and Beyond
+
+  Description:
+Strengthening security for Windows 11 endpoints is crucial. Establish effective security baselines, manage local admin rights, handle encryption keys efficiently, and regulate user privileges without disrupting productivity. This session provides actionable strategies for securing devices across various environments, ensuring that endpoints remain secured while users retain necessary access. Learn to keep your organization's security robust without compromising user experience.
+
+What you will learn:
+ 
+* Mitigate common risks associated with Windows 11 to enhance endpoint security. 
+* Leverage Defender for Endpoint to secure less obvious vulnerabilities effectively.
+* Gain insights into achieving a balance between robust security measures and user productivity.
+* Acquire actionable tips for implementing security strategies that protect endpoints while keeping users satisfied.
+
+Speakers  
+
+
+ [Maurice Daly](https://mms2026atmoa.sched.com/speaker/maurice.daly)
+Microsoft MVP, Senior Security Architect, Patch My PC
+Maurice has been working in the IT industry for the past 25 years. His focus is on the areas of Windows deployment, device management, Entra ID security, and secure productivity. Maurice has been an MCSE since 2008 and received his first MVP award in Enterprise Mobility (now Security...  [Read More ](https://mms2026atmoa.sched.com/speaker/maurice.daly)
+
+ [Jan Ketil Skanke](https://mms2026atmoa.sched.com/speaker/jan_ketil_skanke.27sn43j2)
+MVP Security, Principal Cloud Architect, COO, CloudWay
+
+
+
+
+

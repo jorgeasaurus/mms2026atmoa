@@ -1,0 +1,23 @@
+Session Title: 
+Zero Trust: The Great Debate
+
+  Description:
+Zero Trust may seem like a misleading term, yet it has the potential to redefine security. Shift the focus from restrictions to enabling efficient and secure operations, whether in the office or remotely. Dive into practical strategies for implementing Zero Trust as a support function, ensuring security enhances rather than hinders productivity while effectively protecting future network environments.
+
+What you will learn:
+ 
+* Understand the principles of Zero Trust and the misconceptions around it. 
+* Discover how Zero Trust can serve as an enabler for increased efficiency in your workflows.
+* Explore methods to secure networks against emerging threats in the ever-evolving landscape.
+* Learn actionable implementation strategies for establishing a Zero Trust architecture effectively.
+Provide Feedback
+
+Speakers  
+
+
+ [Sami Laiho](https://mms2026atmoa.sched.com/speaker/sami74)
+Chief Research Officer, MVP, Adminize Oy
+
+
+
+

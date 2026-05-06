@@ -1,0 +1,16 @@
+Session Title: 
+Intune Reporting is Not Enough: Building the Reports You Actually Need
+
+  Description:
+Native Intune reporting often misses the mark, leading to significant gaps in data insights. Leverage Microsoft Graph to extract meaningful data and create custom reports that showcase device state tracking, compliance history, and operational dashboards—critical information that Intune alone doesn’t provide. Gain practical skills to transform your reporting processes, enabling more effective decision-making and action-oriented insights.
+
+What you will learn:
+ 
+* Identify gaps in native Intune reporting and understand their impact on operations. 
+* Learn to extract and store Intune data effectively using Microsoft Graph for custom insights.
+* Design actionable reports that empower admins to make informed decisions, not just observe data.
+* Develop operational dashboards that provide key insights beyond the capabilities of Intune alone.
+
+
+
+

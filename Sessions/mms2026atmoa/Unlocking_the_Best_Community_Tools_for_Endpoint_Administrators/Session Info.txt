@@ -1,0 +1,25 @@
+Session Title: 
+Unlocking the Best Community Tools for Endpoint Administrators
+
+  Description:
+Leverage the collective expertise of the Intune community by discovering the latest and most effective tools designed to assist administrators in automating tasks and troubleshooting with greater efficiency. With an emphasis on Windows and Intune innovations driven by real-world needs, gain insights into community-created solutions that address everyday challenges and optimize your workflow.
+
+What you will learn:
+ 
+* Accelerate problem-solving for daily administration challenges with community-driven tools. 
+* Identify specific challenges addressed by these innovative tools tailored for endpoints.
+* Enhance troubleshooting speed and effectiveness through hands-on demonstrations.
+* Gain improved insights and actionable strategies to streamline endpoint management.
+
+Speakers  
+
+
+ [Kent Agerlund](https://mms2026atmoa.sched.com/speaker/kent_agerlund.1xngh2qj)
+Security Principal | Microsoft Regional Director | twoday, MMS Staff
+Love to talk about anything related to Enterprise client management, Security and digital transformation.
+
+ [Jörgen Nilsson](https://mms2026atmoa.sched.com/speaker/jrgen_nilsson.27sn41it)
+Trusted advisor, Onevinn
+Jorgen is working as a principal consultant at Onevinn in Sweden. He has been working as a consultant since 1993 with a focus on Enterprise Client Management and System Management. Involved in many projects and also a Microsoft Certified Trainer, Microsoft Security MVP and Windows...  [Read More ](https://mms2026atmoa.sched.com/speaker/jrgen_nilsson.27sn41it)
+
+

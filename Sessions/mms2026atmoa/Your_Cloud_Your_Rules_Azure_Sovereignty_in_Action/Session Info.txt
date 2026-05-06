@@ -1,0 +1,16 @@
+Session Title: 
+Your Cloud, Your Rules: Azure Sovereignty in Action
+
+  Description:
+Discover Azure's sovereignty solutions tailored for regulated industries and sensitive workloads. Architect governance using Well-Architected Landing Zones, secure data with Confidential Compute and Customer-managed Keys, and automate compliance with Data Guardian. Deploy Azure Local in both connected and disconnected modes to achieve effective sovereignty across hybrid scenarios, ensuring compliance and security in your cloud strategies.
+
+What you will learn:
+ 
+* Implement governance frameworks using Azure Well-Architected Landing Zones and security controls to ensure regulatory compliance while maintaining cloud agility. 
+* Secure sensitive data utilizing Customer-managed Keys, Confidential Compute, and Data Guardian for enhanced data sovereignty and privacy in regulated environments.
+* Deploy Azure Local in both connected and disconnected modes, ensuring sovereignty for edge workloads and air-gapped scenarios while leveraging cloud capabilities.
+* Explore practical strategies for automating compliance through Regulated Environment Management, enhancing governance and security practices.
+
+
+
+

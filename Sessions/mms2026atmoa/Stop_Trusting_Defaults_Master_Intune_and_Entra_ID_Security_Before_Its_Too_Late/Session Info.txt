@@ -1,0 +1,28 @@
+Session Title: 
+Stop Trusting Defaults: Master Intune and Entra ID Security Before It's Too Late!
+
+  Description:
+Default configurations may be convenient, but they pose significant security risks. Examine the hidden dangers of untouched Intune and Entra ID settings while gaining control over your environment. Address local admin rights, secure BitLocker recovery keys, implement role-based access control, and enforce best practices to transform your tenant from 'default' to 'defensible.' You may discover critical configurations you missed.
+
+What you will learn:
+ 
+* Identify and rectify risky default settings in ConfigMgr and Entra ID to enhance security. 
+* Fortify your Entra ID environment against common misconfigurations and vulnerabilities.
+* Establish a secure foundation using role-based access control and advanced security measures.
+* Identify crucial configurations necessary for ensuring device security and compliance effectively.
+Provide Feedback
+
+Speakers  
+
+
+ [Jörgen Nilsson](https://mms2026atmoa.sched.com/speaker/jrgen_nilsson.27sn41it)
+Trusted advisor, Onevinn
+Jorgen is working as a principal consultant at Onevinn in Sweden. He has been working as a consultant since 1993 with a focus on Enterprise Client Management and System Management. Involved in many projects and also a Microsoft Certified Trainer, Microsoft Security MVP and Windows...  [Read More ](https://mms2026atmoa.sched.com/speaker/jrgen_nilsson.27sn41it)
+
+ [Jan Ketil Skanke](https://mms2026atmoa.sched.com/speaker/jan_ketil_skanke.27sn43j2)
+MVP Security, Principal Cloud Architect, COO, CloudWay
+
+
+
+
+

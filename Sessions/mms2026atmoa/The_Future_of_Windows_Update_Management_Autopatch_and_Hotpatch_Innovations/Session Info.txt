@@ -1,0 +1,33 @@
+Session Title: 
+The Future of Windows Update Management: Autopatch and Hotpatch Innovations
+
+  Description:
+Windows update management is becoming faster, smarter, and more predictable. Delve into the innovations of Windows Autopatch and Hotpatch that are reshaping how organizations maintain security and compliance. Gain insights on current capabilities, future developments, and how these enhancements integrate into the overall Windows update strategy, whether managing thousands of endpoints or planning future updates.
+
+What you will learn:
+ 
+* Understand Autopatch's capabilities and controls for effective Windows update management. 
+* Grasp the Hotpatch functionality and build trust in its value proposition for your organization.
+* Discover upcoming changes in Update Readiness to better prepare your update strategy.
+* Learn integration techniques for Autopatch and Hotpatch within your broader Windows update framework.
+Provide Feedback
+
+Speakers  
+
+
+ [Ken Goossens](https://mms2026atmoa.sched.com/speaker/ken_goosens.29bhu3nc)
+Senior CE Product Manager, Microsoft
+
+
+
+
+ [Harman Thind](https://mms2026atmoa.sched.com/speaker/harman.thind)
+Senior Product Manager, Microsoft
+
+Harman Thind is a Senior Product Manager at Microsoft focused on Windows servicing and update management, where he leads work on Windows Autopatch and enterprise update experiences. He partners closely with IT admins and customers to design solutions that improve reliability, visibility...  [Read More ](https://mms2026atmoa.sched.com/speaker/harman.thind)
+
+ [Surabhi Calla](https://mms2026atmoa.sched.com/speaker/surabhicallamicrosoftcom.29du7neq)
+Senior Product Manager, Microsoft
+A Senior Product Manager at Microsoft, specializing in Autopatch and Windows Update Management. Focused on building customer-centric solutions, driving automation, and optimizing enterprise update management.
+
+

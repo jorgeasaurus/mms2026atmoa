@@ -1,0 +1,25 @@
+Session Title: 
+Mastering App Deployment and Lifecycle Management with Intune
+
+  Description:
+Effectively deploy and manage applications using Microsoft Intune with a focus on best practices. Discover techniques for quick, efficient deployment of Microsoft and third-party apps while steering clear of common pitfalls. Gain insights on app lifecycle management, including patching, updating, and timely removal of apps. Acquire the tools and strategies necessary for successful deployment whether scaling operations or handling individual updates.
+
+What you will learn:
+ 
+* Best practices for deploying Microsoft and third-party apps seamlessly using Intune. 
+* Integrate Intune with Windows for a streamlined app delivery process.
+* Implement techniques for efficiently patching and updating deployed applications.
+* Learn to avoid common pitfalls in app deployment and application management.
+
+Speakers  
+
+
+ [Johan Arwidmark](https://mms2026atmoa.sched.com/speaker/arwidmark)
+Technical Fellow, ViaMonstra Online Academy
+Johan Arwidmark is a Technical Fellow with ViaMonstra Online Academy and Mirolus, specializing in Systems Management and Enterprise Windows Deployment Solutions. Johan also speaks at several conferences each year, including MMS and Ignite events around the world. He is actively involved...  [Read More ](https://mms2026atmoa.sched.com/speaker/arwidmark)
+
+ [Andrew Johnson](https://mms2026atmoa.sched.com/speaker/andrew_johnson.27sn45ur)
+Solutions Architect, Higher Education
+Andrew has served in various technical and leadership roles in IT over 15 years, spending most of his time in higher education. He's always looking for new ways to perform tasks more efficiently and share knowledge with others. When he is not working with IT - professionally or in...  [Read More ](https://mms2026atmoa.sched.com/speaker/andrew_johnson.27sn45ur)
+
+

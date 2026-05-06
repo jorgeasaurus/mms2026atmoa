@@ -1,0 +1,17 @@
+Session Title: 
+Rethinking Network Security: Goodbye VPNs
+
+  Description:
+Modern network security requires evolving beyond traditional approaches like VPNs, which can grant excessive network access. Entra Private Access revolutionizes secure access to internal resources without relying on legacy systems. Gerry and Dean will discuss the Security Service Edge, focusing on Entra Private Access and Entra Internet Access while providing a live demonstration of configuring this cutting-edge solution.
+
+What you will learn:
+ 
+* Understand Entra Private Access and its role in Microsoft's Global Secure Access, enabling Zero Trust access to internal resources without legacy VPNs. 
+* Discover how to implement highly available connectors that enhance the security and accessibility of your network infrastructure.
+* Gain insights on migrating from your current VPN solution to a more secure, modern alternative using Entra technologies.
+* Access practical guidance and hands-on experience in configuring a secure access solution that meets today's demands.
+Provide Feedback
+
+
+
+

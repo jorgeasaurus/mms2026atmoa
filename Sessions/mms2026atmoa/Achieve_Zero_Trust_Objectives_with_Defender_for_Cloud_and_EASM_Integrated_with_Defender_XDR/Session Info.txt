@@ -1,0 +1,16 @@
+Session Title: 
+Achieve Zero Trust Objectives with Defender for Cloud and EASM Integrated with Defender XDR
+
+  Description:
+Implementing Zero Trust principles becomes seamless with Defender for Cloud's Security Posture Management, Cloud Workload Protection, and External Attack Surface Management integrated with Defender XDR. Learn to gain comprehensive insights into cloud misconfigurations and compliance risks while proactively scanning for vulnerabilities in your DevOps pipelines. Empower your security strategy by continuously monitoring cloud environments for enhanced protection and a robust security posture.
+
+What you will learn:
+ 
+* Prioritize cross-platform security recommendations effectively using the Defender XDR portal. 
+* Connect GitHub repositories for proactive code supply scanning, uncover findings, and enhance your security score.
+* Utilize Defender EASM to identify relationships among known assets and reveal previously unmonitored artifacts.
+* Extend CSPM and CWP protections to any cloud resource using multi-cloud connectors and/or Azure Arc.
+
+
+
+

@@ -1,0 +1,25 @@
+Session Title: 
+Automating the Un-Automatable: Advanced PowerShell Techniques
+
+  Description:
+Dive into advanced PowerShell automation techniques that extend beyond simple scripts and scheduled tasks. Uncover hidden operations in applications, both Microsoft and third-party, and learn to identify APIs and calls they use. Transform these insights into reusable PowerShell automations through practical demonstrations and techniques, unveiling automation opportunities where they are typically unseen.
+
+What you will learn:
+ 
+* Discover hidden REST and API calls using tools like Graph X-Ray and browser developer tools. 
+* Explore Windows internals effectively with WMI Explorer to enhance your automation capabilities.
+* Utilize SQL Profiler to identify and analyze database queries crucial for automation tasks.
+* Learn how to identify and leverage .NET assemblies within applications for advanced automation solutions.
+
+Speakers  
+
+
+ [Nathan Ziehnert](https://mms2026atmoa.sched.com/speaker/nathan_ziehnert.27sdlp62)
+Microsoft MVP, Principal Engineer, 2Pint Software
+I dig Windows systems from consumer to enterprise, I'm in an eternal love affair with PowerShell and C#, and I also like to play in Azure. I have a blog... you can read my blog... the link is above (or below? who knows?!). You might also find me doing karaoke whenever the opportunity...  [Read More ](https://mms2026atmoa.sched.com/speaker/nathan_ziehnert.27sdlp62)
+
+ [Jeff Scripter](https://mms2026atmoa.sched.com/speaker/jeff_scripter.28jia85t)
+Staff Engineer, Recast Software
+
+
+
