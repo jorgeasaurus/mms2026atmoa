@@ -1,0 +1,31 @@
+Session Title: 
+Beyond the Patch: Uncovering Intune Compliance Risks
+
+  Description:
+Patching and enforcing compliance may feel like a victory, but hidden vulnerabilities threaten your security. Explore advanced attack vectors including credential theft and lateral movement while examining how endpoint management, identity security, and Microsoft Defender XDR integrate to strengthen defenses in modern cloud environments. This session dives deep into enhancing compliance strategies for better security outcomes.
+
+What you will learn:
+ 
+* Understand the limitations of compliance-focused security, revealing why patched devices may still pose risks. 
+* Combine Microsoft Defender XDR, Conditional Access, and Zero Trust Principles to establish a robust defense against evolving threats.
+* Implement practical steps for Zero Trust principles and utilize Microsoft Defender XDR to proactively mitigate threats in cloud settings.
+* Identify key integrations between endpoint management and security technologies for enhanced protection in cloud environments.
+Provide Feedback
+
+Speakers  
+
+
+ [Morten Knudsen](https://mms2026atmoa.sched.com/speaker/morten_knudsen.27sn3yb1)
+Triple Microsoft MVP (Security, Azure, Security Copilot) | MCT | Security & Cloud Architect | Co-Founder Experts Live De, 2LINKIT
+Morten is a Triple Microsoft MVP (Security, Azure, and Security Copilot), a Microsoft Certified Trainer, and holds over 17 active Microsoft certifications.
+
+As a Cloud and Security Architect, he focuses on Azure infrastructure, Microsoft 365, automation, security, AI, and hybrid cl...  [Read More ](https://mms2026atmoa.sched.com/speaker/morten_knudsen.27sn3yb1)
+
+ [Lee Schlipphak](https://mms2026atmoa.sched.com/speaker/lee.schlipphak)
+Consultant, SVA System Vertrieb Alexander GmbH
+I am Lee Schlipphak, Consultant and System Engineer with a focus on Microsoft Intune, Entra ID, Defender XDR, as well as topics related to Identity and Endpoint Security.
+
+In my daily work, I help my clients develop and successfully implement tailored IT solutions.
+In addition to my professional activities, I am actively involved in the Microsoft Intune and Windows communities. I regularly share my knowledge and experiences on LinkedIn to inspire others and foster exchange within the community...  [Read More ](https://mms2026atmoa.sched.com/speaker/lee.schlipphak)
+
+

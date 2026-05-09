@@ -10,6 +10,7 @@ What you will learn:
 * Leverage Defender for Endpoint to secure less obvious vulnerabilities effectively.
 * Gain insights into achieving a balance between robust security measures and user productivity.
 * Acquire actionable tips for implementing security strategies that protect endpoints while keeping users satisfied.
+Provide Feedback
 
 Speakers  
 

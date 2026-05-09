@@ -1,0 +1,29 @@
+Session Title: 
+Windows 365 Frontline: Unlocking Productivity with Cloud Solutions
+
+  Description:
+Flexibility, security, and cost-effectiveness define the needs of today’s frontline workers and hybrid teams. Windows 365 Frontline delivers tailored Cloud PCs, with Dedicated and Shared modes providing personalized or pooled access. Discover how Cloud Apps and Cloud Profiles simplify application deployment and enable seamless roaming user data. Enhance productivity and optimize resources in your organization with these innovative solutions.
+
+What you will learn:
+ 
+* Learn about Dedicated mode, providing personalized Cloud PCs for users requiring consistent environments. 
+* Explore Shared mode for task-based workers, leveraging non-persistent desktops to optimize resources.
+* Understand how Cloud Apps and Cloud Profiles enhance flexibility for seamless user experiences across devices.
+* Gain insights into best practices for deployment and management using Microsoft Intune.
+Provide Feedback
+
+Speakers  
+
+
+ [Harjit Dhaliwal](https://mms2026atmoa.sched.com/speaker/harjit4)
+Robopack, MVP, MMS Staff
+
+
+
+
+ [Adam Nichols](https://mms2026atmoa.sched.com/speaker/adam_nichols.29bhu3ne)
+Senior Product Manager CAT/CxE, Microsoft
+
+
+
+

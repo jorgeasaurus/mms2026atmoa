@@ -1,0 +1,32 @@
+Session Title: 
+Azure Arc 101: Mastering Hybrid Management
+
+  Description:
+Navigating hybrid and multi-cloud environments presents unique challenges for resource management. Azure Arc empowers organizations by extending Azure's management and governance to servers, Kubernetes, and databases, whether on-premises, at the edge, or in other clouds. Discover the fundamentals of Azure Arc and unlock its full potential for consistent, secure resource management.
+
+What you will learn:
+ 
+* Understand how the Azure control plane enables consistent management across on-premises, edge, and multi-cloud environments. 
+* Learn to onboard servers to Azure Arc and assess your environment swiftly with built-in insights and inventory views.
+* Manage Arc-enabled servers at scale with ease—apply updates, troubleshoot, monitor health, and perform key operations directly from the Azure Portal.
+* Explore best practices for implementing Azure Arc to enhance visibility and control across diverse infrastructures.
+Provide Feedback
+
+Speakers  
+
+
+ [Michael Greene](https://mms2026atmoa.sched.com/speaker/greene16)
+Principal PM Manager, Microsoft
+Michael Greene is a Principal Product Development Manager (PDM) Manager at Microsoft leading great people across the teams responsible for PowerShell, Azure CLI, Desired State Configuration, OpenSSH, and System Center. With more than two decades at Microsoft, his work has spanned...  [Read More ](https://mms2026atmoa.sched.com/speaker/greene16)
+
+ [Mason Torres](https://mms2026atmoa.sched.com/speaker/mason.torres)
+Senior Product Manager, Microsoft
+Mason Torres is a Senior Product Manager at Microsoft focused on Azure Arc and hybrid server management. He works closely with customers and engineering teams to simplify how organizations manage servers across on-prem and cloud environments.Hosts  
+
+
+ [Ameya Vijay Marathe](https://mms2026atmoa.sched.com/exhibitor/ameyamarathe)
+
+
+
+
+

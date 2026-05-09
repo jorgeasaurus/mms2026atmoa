@@ -1,0 +1,26 @@
+Session Title: 
+ConfigMgr Fundamentals: Optimize Infrastructure and Security
+
+  Description:
+Enhance ConfigMgr skills by focusing on infrastructure planning, security management, and maintaining system health. Attendees will gain critical knowledge to optimize performance and security, ensuring a resilient ConfigMgr environment. Dive into best practices for effective resource management, troubleshooting common issues, and implementing robust security measures to strengthen your ConfigMgr expertise.
+
+What you will learn:
+ 
+* Identify and troubleshoot common infrastructure challenges within your ConfigMgr environment. 
+* Implement effective security measures to manage access and protect sensitive information.
+* Develop strategies for continuously monitoring and maintaining infrastructure health.
+* Explore best practices for optimizing your ConfigMgr setup to enhance overall efficiency.
+Provide Feedback
+
+Speakers  
+
+
+ [Sherry Kissinger](https://mms2026atmoa.sched.com/speaker/sherry_kissinger.1sw4e0rd)
+CM Maestro, Cardinal Health
+For ConfigMgr, talk to me about large hierarchies, inventory customizations, compliance settings, and reporting for the SQL and SRS-challenged.
+
+ [Matt Wreede](https://mms2026atmoa.sched.com/speaker/matt.wreede)
+Client Systems Engineer, Cardinal Health
+Matt has 15 years’ experience in Client Management, starting as a ‘technician’ and working in multiple industries: Health Care, Government, and Insurance. His focus and deepest love in the ConfigMgr space has always been OSD, and these days, AutoPilot and OSD mixture, and is...  [Read More ](https://mms2026atmoa.sched.com/speaker/matt.wreede)
+
+

@@ -1,0 +1,30 @@
+Session Title: 
+Preserving Digital Assets: A Practical Guide
+
+  Description:
+Address the often-overlooked reality of digital asset preservation in the face of death. Explore strategies to secure your digital belongings, share access with loved ones, and consider items often forgotten. Gain insights from individuals who've navigated digital asset recovery, leaving with actionable steps to safeguard your assets and support others. This important yet approachable topic combines pragmatism and humor while fostering essential discussions over your favorite drinks.
+
+What you will learn:
+ 
+* Gain a comprehensive understanding of your digital assets' scope and significance. 
+* Develop your own digital asset preservation plan tailored to your needs.
+* Learn secure practices for timing the sharing of digital assets with survivors.
+* Receive firsthand tips and insights from individuals experienced in digital asset recovery.
+Provide Feedback
+
+Speakers  
+
+
+ [Chris Thompson](https://mms2026atmoa.sched.com/speaker/chris_thompson.27sn42aa)
+Principal Consultant, SpecterOps
+Chris is a red team operator and BloodHound Product Architect at SpecterOps, where he conducts adversary simulation and penetration testing engagements, security research, tool development, and training. He is the primary author of SharpSCCM and Maestro, open-source tools for te...  [Read More ](https://mms2026atmoa.sched.com/speaker/chris_thompson.27sn42aa)
+
+ [Matt Zaske](https://mms2026atmoa.sched.com/speaker/matt_zaske.27sn4e6k)
+Developer/Fleet Admin, University of Minnesota
+Matt is an IT professional with over 25 years of experience who brings a unique blend of technical expertise and creative flair to the table. His background bridges several IT disciplines including endpoint management, server administration (Linux and Windows), and applications architecture...  [Read More ](https://mms2026atmoa.sched.com/speaker/matt_zaske.27sn4e6k)
+
+ [Steve Jesok](https://mms2026atmoa.sched.com/speaker/steve_jesok.28jia8kd)
+Systems Management and Automation Professional, Banking/Finance
+I am an experienced information technology professional specializing in IT operations, systems management, and automation within large-scale enterprise environments. My career has focused on maintaining and optimizing complex IT infrastructures, where I have developed deep expertise...  [Read More ](https://mms2026atmoa.sched.com/speaker/steve_jesok.28jia8kd)
+
+

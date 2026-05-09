@@ -1,0 +1,26 @@
+Session Title: 
+Automation for Good and Chaos
+
+  Description:
+Automation isn’t good or bad. It’s power, and how we use it matters. This session starts with how automation and AI can genuinely help communities, nonprofits, and civic efforts. Then we flip the script and show how those same skills can power clever, real-time shenanigans and just fun chaos. You’ll learn patterns for building automations that make a difference or deliver harmless mischief, all using the same core techniques. 
+
+What you will learn:
+ 
+* Create automations that react in real time to people, events, or environmental signals. 
+* Design AI-driven workflows that foster community support or enable clever, well-timed chaos.
+* Transform everyday automation skills into tools that benefit people or spark playful mischief.
+* Implement practical ideas right away, whether aiding local organizations or creating harmless fun.
+Provide Feedback
+
+Speakers  
+
+
+ [Donnie Taylor](https://mms2026atmoa.sched.com/speaker/donnie_taylor.27sdm6lt)
+Microsoft MVP, Architect, GM
+Donnie is an IT architect and leader with 25+ years in enterprise systems management and automation. He has led multiple systems-management user groups and delivered 400+ conference sessions and workshops. A eight-time Microsoft MVP (Cloud and Datacenter Management, Azure, PowerShell...  [Read More ](https://mms2026atmoa.sched.com/speaker/donnie_taylor.27sdm6lt)
+
+ [Scott Corio](https://mms2026atmoa.sched.com/speaker/scott_corio.27sdm7bd)
+Microsoft MVP, Enterprise Cloud Architect, MMS Staff
+Boasting over 20 years in IT, Scott is not only an esteemed Enterprise Cloud Architect for a major healthcare giant, but he's also a Microsoft MVP in the Azure category. With a diverse portfolio spanning healthcare, non-profit, telecommunications, retail, and travel sectors, his expertise...  [Read More ](https://mms2026atmoa.sched.com/speaker/scott_corio.27sdm7bd)
+
+

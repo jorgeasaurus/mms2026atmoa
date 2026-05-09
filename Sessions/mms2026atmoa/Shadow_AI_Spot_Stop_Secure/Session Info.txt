@@ -1,0 +1,28 @@
+Session Title: 
+Shadow AI: Spot, Stop, Secure
+
+  Description:
+Generative AI tools like ChatGPT and Copilot pose new data exfiltration risks within organizations. Identify common entry points and learn to detect and monitor shadow AI usage in Microsoft 365. Gain insights into how AI alters data access patterns, often bypassing traditional security controls. Implement practical guardrails for responsible AI adoption, ensuring a balance between security, compliance, and productivity.
+
+What you will learn:
+ 
+* Recognize key shadow AI entry points, including ChatGPT and Copilot misuse that present data exfiltration risks in Microsoft 365 environments. 
+* Learn to detect and monitor unsanctioned AI usage leveraging Microsoft 365 and Defender telemetry, even outside approved workflows.
+* Understand the impact of AI on data access and exfiltration patterns, highlighting gaps in traditional controls for AI-assisted leakage.
+* Gain practical guardrails for responsible AI adoption, balancing security, compliance, and productivity without hindering legitimate AI use.
+Provide Feedback
+
+Speakers  
+
+
+ [Rod Trent](https://mms2026atmoa.sched.com/speaker/rod_trent.28kie72h)
+Senior Product Manager, Microsoft
+Rod Trent is a Senior Product Manager and Security MVP Lead for Microsoft where he focuses on the intersection between Security and AI. In his spare time, Rod writes KQL queries, authors fiction and non-fiction books, tells proud stories about his grandkids, brags about his Six Million...  [Read More ](https://mms2026atmoa.sched.com/speaker/rod_trent.28kie72h)
+
+ [Ewelina Paczkowska](https://mms2026atmoa.sched.com/speaker/ewelinapaczkowska)
+Data Security & Governance Lead, Threatscape
+MVP, Data Security & Governance Lead, Microsoft 355 Security & Compliance User group co-organiser, creator of welkasworld.com
+
+
+
+

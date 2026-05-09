@@ -1,0 +1,30 @@
+Session Title: 
+Microsoft Edge Management Service: Modern Cross-Platform Browser Management
+
+  Description:
+As web-based applications dominate, browser management takes on heightened importance. Discover the transformative Microsoft Edge management service, enabling efficient management of settings and extension requests across multiple platforms, including Windows and Google Chrome. This session offers a hands-on demo on securing and configuring Edge, highlighting critical mistakes to avoid for effective browser management.
+
+What you will learn:
+ 
+* Gain insights from real-world examples of Microsoft Edge management in action. 
+* Learn to leverage the Edge Management Service for efficient cross-platform browser management.
+* Identify valuable lessons learned for optimizing Edge security and configuration.
+* Understand best practices to avoid common pitfalls in browser management.
+Provide Feedback
+
+Speakers  
+
+
+ [Jörgen Nilsson](https://mms2026atmoa.sched.com/speaker/jrgen_nilsson.27sn41it)
+Trusted advisor, Onevinn
+Jorgen is working as a principal consultant at Onevinn in Sweden. He has been working as a consultant since 1993 with a focus on Enterprise Client Management and System Management. Involved in many projects and also a Microsoft Certified Trainer, Microsoft Security MVP and Windows...  [Read More ](https://mms2026atmoa.sched.com/speaker/jrgen_nilsson.27sn41it)
+
+ [Sandy Zeng](https://mms2026atmoa.sched.com/speaker/sandy_zeng.27sn4def)
+Senior Cloud Architect at CloudWay | Microsoft MVP, CloudWay
+Sandy is an experienced Information Technology Specialist for over 15 years. Skilled in Microsoft Endpoint Manager (ConfigMgr and Intune), Windows, and security. Sandy's interests are mostly related to Microsoft Technologies, she is passionate about learning new skill sets to improve...  [Read More ](https://mms2026atmoa.sched.com/speaker/sandy_zeng.27sn4def)
+
+ [Matthew Teegarden](https://mms2026atmoa.sched.com/speaker/matthew_teegarden.81ywic9)
+Chief Architect of Configuration Drift Elimination and Compliance Sovereignty, EmptyGarden
+Matthew Teegarden is a seasoned professional dedicated to helping organizations optimize productivity, services, and processes through Microsoft technologies, with a primary focus on Microsoft Intune for configuration drift, compliance, and managing baselines for Windows and Edge...  [Read More ](https://mms2026atmoa.sched.com/speaker/matthew_teegarden.81ywic9)
+
+

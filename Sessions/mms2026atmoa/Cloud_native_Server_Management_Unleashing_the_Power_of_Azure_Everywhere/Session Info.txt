@@ -10,6 +10,7 @@ What you will learn:
 * Transition your Group Policy Object (GPO) settings to cloud-native alternatives for increased insight and effectiveness.
 * Explore the capabilities of Azure’s cloud-native server management tools to optimize IT efficiencies.
 * Implement best practices for a smooth migration from ConfigMgr to Azure, enhancing server management processes.
+Provide Feedback
 
 
 

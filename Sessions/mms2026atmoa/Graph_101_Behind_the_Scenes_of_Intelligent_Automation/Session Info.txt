@@ -1,0 +1,28 @@
+Session Title: 
+Graph 101 : Behind the Scenes of Intelligent Automation
+
+  Description:
+Microsoft Graph serves as the backbone of Microsoft 365 automation and the foundation for intelligent agents. Gain essential knowledge on using Microsoft Graph with tools like Graph Explorer and PowerShell. Learn to make API calls, securely explore data, and automate tasks while understanding how these fundamentals underpin the capabilities of AI agents. Build trust in automation by confidently leveraging Graph for your solutions.
+
+What you will learn:
+ 
+* Grasp the fundamentals of REST APIs and their significance for Graph and AI agents. 
+* Utilize Graph Explorer to discover and test API calls effectively.
+* Integrate Graph with PowerShell scripts to enable real-world automation.
+* Comprehend how Microsoft Graph serves as the foundation for custom automation and intelligent AI agents.
+Provide Feedback
+
+Speakers  
+
+
+ [Sean Bulger](https://mms2026atmoa.sched.com/speaker/sean_bulger.27so1hq4)
+Cloud Endpoint Solution Engineer, Microsoft
+Sean is a Cloud Endpoint Technical Specialist at Microsoft. Prior to joining Microsoft, he was a consulting engineer at a large partner and an Enterprise Mobility MVP. Sean credits the community for empowering him to grow personally and professionally and seeks to encourage others...  [Read More ](https://mms2026atmoa.sched.com/speaker/sean_bulger.27so1hq4)
+
+ [David Brook](https://mms2026atmoa.sched.com/speaker/david_brook.27tenjix)
+Managing Consultant & Microsoft MVP, CloudXP Ltd
+David, a distinguished Microsoft MVP in the Security category, brings a wealth of expertise in Microsoft Intune and Device Management capabilities. _x000D_
+ _x000D_
+ Beyond his specialisation, David's versatility shines as he navigates the breadth of the Microsoft ecosystem, seamle...  [Read More ](https://mms2026atmoa.sched.com/speaker/david_brook.27tenjix)
+
+

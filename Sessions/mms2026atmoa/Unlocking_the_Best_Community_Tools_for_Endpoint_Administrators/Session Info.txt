@@ -10,11 +10,12 @@ What you will learn:
 * Identify specific challenges addressed by these innovative tools tailored for endpoints.
 * Enhance troubleshooting speed and effectiveness through hands-on demonstrations.
 * Gain improved insights and actionable strategies to streamline endpoint management.
+Provide Feedback
 
 Speakers  
 
 
- [Kent Agerlund](https://mms2026atmoa.sched.com/speaker/kent_agerlund.1xngh2qj)
+ [Kent](https://mms2026atmoa.sched.com/speaker/kent_agerlund.1xngh2qj)
 Security Principal | Microsoft Regional Director | twoday, MMS Staff
 Love to talk about anything related to Enterprise client management, Security and digital transformation.
 

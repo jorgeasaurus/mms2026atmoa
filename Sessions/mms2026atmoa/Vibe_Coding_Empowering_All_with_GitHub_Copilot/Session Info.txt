@@ -1,0 +1,17 @@
+Session Title: 
+Vibe Coding: Empowering All with GitHub Copilot
+
+  Description:
+Learn to integrate GitHub Copilot into your workflow and enhance productivity, whether you're a developer or an IT professional. This interactive session demonstrates its versatile applications, as participants can follow along to see firsthand how GitHub Copilot simplifies coding tasks. Discover practical techniques and best practices that reveal GitHub Copilot's true potential, proving it's a valuable tool for everyone, not just developers.
+
+What you will learn:
+ 
+* Utilize GitHub Copilot in VSCode effectively to streamline your coding processes. 
+* Implement best practices for maximizing the benefits of GitHub Copilot in your projects.
+* Understand that GitHub Copilot is beneficial for IT pros, not just software developers.
+* Engage in interactive demonstrations that showcase the real power of GitHub Copilot for all skill levels.
+Provide Feedback
+
+
+
+

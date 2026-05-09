@@ -10,6 +10,7 @@ What you will learn:
 * Learn how Azure Arc integrates with the transition from traditional ConfigMgr-centric management models.
 * Explore real-world challenges and opportunities when connecting existing server estates to Microsoft management capabilities.
 * Receive direct answers and share feedback on your scenarios, concerns, and lessons with Microsoft product leaders.
+Provide Feedback
 
 
 

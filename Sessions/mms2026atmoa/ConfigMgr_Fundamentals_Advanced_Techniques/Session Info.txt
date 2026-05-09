@@ -1,0 +1,26 @@
+Session Title: 
+ConfigMgr Fundamentals: Advanced Techniques
+
+  Description:
+Elevate ConfigMgr expertise with advanced techniques in Collection Management, Software Deployment, Patching, and Compliance. Gain actionable insights that enhance your understanding and prepare for deeper sessions throughout the week, improving your overall skill set and efficiency.
+
+What you will learn:
+ 
+* Master advanced Collection Management techniques to optimize resource allocation. 
+* Implement streamlined methods for efficient Software Deployment across environments.
+* Utilize efficient strategies for timely and effective Patching operations.
+* Adopt effective approaches to ensure Compliance across various configurations.
+Provide Feedback
+
+Speakers  
+
+
+ [Sherry Kissinger](https://mms2026atmoa.sched.com/speaker/sherry_kissinger.1sw4e0rd)
+CM Maestro, Cardinal Health
+For ConfigMgr, talk to me about large hierarchies, inventory customizations, compliance settings, and reporting for the SQL and SRS-challenged.
+
+ [Matt Wreede](https://mms2026atmoa.sched.com/speaker/matt.wreede)
+Client Systems Engineer, Cardinal Health
+Matt has 15 years’ experience in Client Management, starting as a ‘technician’ and working in multiple industries: Health Care, Government, and Insurance. His focus and deepest love in the ConfigMgr space has always been OSD, and these days, AutoPilot and OSD mixture, and is...  [Read More ](https://mms2026atmoa.sched.com/speaker/matt.wreede)
+
+

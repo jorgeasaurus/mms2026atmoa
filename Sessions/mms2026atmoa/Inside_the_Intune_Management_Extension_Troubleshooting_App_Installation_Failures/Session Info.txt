@@ -1,0 +1,26 @@
+Session Title: 
+Inside the Intune Management Extension: Troubleshooting App Installation Failures
+
+  Description:
+Examine the Intune Management Extension (IME) app installation process, tracing each step from the SideCar AppWorkload activation to content execution and detection. Identify critical pain points that lead to failures or delays, including the notorious sixty-minute wait. This session uses real logs and thorough reverse engineering of the IME to uncover common issues and solutions, even for unsupported scenarios, empowering IT pros to troubleshoot effectively.
+
+What you will learn:
+ 
+* Gain a clear understanding of the IME app installation workflow for effective troubleshooting. 
+* Identify common failure points where application installations can go awry.
+* Learn actionable solutions to installation issues, even in scenarios not officially supported by Microsoft.
+* Access real-world log analysis and reverse engineering insights to enhance your Intune management skills.
+Provide Feedback
+
+Speakers  
+
+
+ [Rudy Ooms](https://mms2026atmoa.sched.com/speaker/info15025)
+Call4cloud | MVP | Mister MDM, Patch My PC
+Rudy Ooms works as a Content Creator Manager at Patch My PC as of June 2024. He utilizes his extensive IT experience to create and manage content, particularly focusing on Microsoft Intune, Windows Autopilot, and Endpoint Privilege Management (EPM).One of his hobbies (next to drinking...  [Read More ](https://mms2026atmoa.sched.com/speaker/info15025)
+
+ [Bryan Dam](https://mms2026atmoa.sched.com/speaker/bryan_dam.28jno8u4)
+Patch Lover Extraordinaire - Patch My PC, Patch My PC
+I am a lover of all patches for Patch My PC. I've spent over 15 years as a system administrator, most recently at a large Midwest supermarket using Configuration Manager. I'm active in the online support communities and most days you'll find me on the SCCM subreddit or the WinAdmin's...  [Read More ](https://mms2026atmoa.sched.com/speaker/bryan_dam.28jno8u4)
+
+

@@ -3,6 +3,7 @@ Intune Architecture and Infrastructure: A Comprehensive Deep Dive
 
   Description:
 Delve into the inner workings of Microsoft Intune's architecture and infrastructure. Understand its core components, performance, scalability, and deployment behaviors. Discover upcoming improvements to the assignment and deployment experiences. Engage in live Q
+Provide Feedback
 
 
 

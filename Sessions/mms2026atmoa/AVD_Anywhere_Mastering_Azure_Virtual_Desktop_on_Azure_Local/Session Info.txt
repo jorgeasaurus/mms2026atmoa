@@ -10,6 +10,7 @@ What you will learn:
 * Understand image creation, VMSS deployment, FSLogix tuning, and GPU placement essentials.
 * Navigate identity and networking flows specific to hybrid AVD setups.
 * Implement monitoring techniques and cost control methods to avoid hybrid AVD pitfalls.
+Provide Feedback
 
 Speakers  
 

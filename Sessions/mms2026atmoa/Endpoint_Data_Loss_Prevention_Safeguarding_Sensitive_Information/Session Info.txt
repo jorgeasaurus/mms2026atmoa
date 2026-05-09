@@ -10,6 +10,7 @@ What you will learn:
 * Learn how data classification strengthens overall information security.
 * Understand retention strategies for ensuring long-term data protection.
 * Explore effective integration of DLP with third-party solutions like Defender for Cloud Apps.
+Provide Feedback
 
 Speakers  
 

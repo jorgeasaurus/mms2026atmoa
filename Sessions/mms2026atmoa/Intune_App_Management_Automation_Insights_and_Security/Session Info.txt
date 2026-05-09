@@ -1,0 +1,28 @@
+Session Title: 
+Intune App Management: Automation, Insights, and Security
+
+  Description:
+Managing applications in the Windows ecosystem can be complex, involving acquisition, packaging, deployment, and updates. Discover the latest enhancements in Intune app management and patching aimed at streamlining operations while ensuring a secure, up-to-date application landscape. Gain practical guidance and refreshed content that can be implemented immediately to modernize and future-proof your application lifecycle management.
+
+What you will learn:
+ 
+* Discover the latest advancements in Intune app management and patching. 
+* Learn about the critical importance of effective application lifecycle management.
+* Explore tools and products designed to enhance your app lifecycle management.
+* Receive actionable strategies to simplify operations and ensure security in your app landscape.
+Provide Feedback
+
+Speakers  
+
+
+ [Tim De Keukelaere](https://mms2026atmoa.sched.com/speaker/tim_de_keukelaere.1sw4e0pu)
+@Tim_DK, Workplace Architect / MVP
+Tim is a freelance consultant with over 20 years of experience in the field.He has a broad technical knowledge and a strong focus on endpoint management and securit. Based in Belgium, he is a Microsoft MVP, a community leader, and speaker at local and global events.
+
+
+
+ [Peter Daalmans](https://mms2026atmoa.sched.com/speaker/peter_daalmans.28j9d0cg)
+Solutions Architect, SecMinds Solutions
+Peter is a Principal Workplace Consultant / Architect and Microsoft Certified Trainer at SecMinds Solutions with a primary focus on the Microsoft Intune, Configuration Manager and Enterprise Mobility. Peter is awarded every year as a Security MVP (Microsoft Intune) since 2012 and...  [Read More ](https://mms2026atmoa.sched.com/speaker/peter_daalmans.28j9d0cg)
+
+

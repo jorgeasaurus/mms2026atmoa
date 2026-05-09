@@ -10,6 +10,7 @@ What you will learn:
 * Secure sensitive data utilizing Customer-managed Keys, Confidential Compute, and Data Guardian for enhanced data sovereignty and privacy in regulated environments.
 * Deploy Azure Local in both connected and disconnected modes, ensuring sovereignty for edge workloads and air-gapped scenarios while leveraging cloud capabilities.
 * Explore practical strategies for automating compliance through Regulated Environment Management, enhancing governance and security practices.
+Provide Feedback
 
 
 

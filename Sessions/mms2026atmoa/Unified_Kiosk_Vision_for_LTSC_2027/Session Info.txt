@@ -1,0 +1,27 @@
+Session Title: 
+Unified Kiosk: Vision for LTSC 2027
+
+  Description:
+Discover Windows Unified Kiosk Mode, a streamlined and secure solution that eliminates fragmentation while simplifying deployment. This approach supports multi-app scenarios, enhances modern management via Intune and PowerShell, and ensures a consistent user experience across all Windows editions.
+
+What you will learn:
+ 
+* Unified Configuration: A single workflow simplifies multiple kiosk modes, reducing complexity and boosting scalability. 
+* Modern Management: Leverage a brand new Kiosk CSP and PowerShell cmdlets for straightforward setup, diagnostics, and advanced customization.
+* Customer Benefits: Experience improved reliability, security, and flexibility for multi-user and multi-app scenarios, perfect for retail, healthcare, and public services.
+* Opportunities to support and participate in the insider preview scheduled for the second half of 2026.
+Provide Feedback
+
+Speakers  
+
+
+ [Steven Hosking](https://mms2026atmoa.sched.com/speaker/steven44)
+Customer Experience Product Manager - Windows, Microsoft
+With over 20 years of experience in end use compute management, across internal, consultant, and now Vendor, Steven can provide a unique point of view. He is also one of the founding members of the highly popular Intune.training series.
+
+ [Dustin Roy](https://mms2026atmoa.sched.com/speaker/dustinroy1)
+Sr. Technical Program Manager, Microsoft
+About me
+I’m a Senior TPM on the Windows team focused on Unified Kiosk—bringing all the fragmented kiosk experiences (Assigned Access, Shell Launcher, XML, etc.) into a single, simpler configuration model with first‑class Intune and Settings Catalog support, better diagnosti...  [Read More ](https://mms2026atmoa.sched.com/speaker/dustinroy1)
+
+

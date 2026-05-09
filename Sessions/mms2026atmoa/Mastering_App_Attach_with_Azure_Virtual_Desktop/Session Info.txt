@@ -10,6 +10,20 @@ What you will learn:
 * Explore the installation packages utilized with App Attach for effective application management.
 * Implement App Attach seamlessly within Azure Virtual Desktop for optimized application delivery.
 * Learn strategies for managing and maintaining published App Attach applications efficiently.
+Provide Feedback
+
+Speakers  
+
+
+ [Travis Roberts](https://mms2026atmoa.sched.com/speaker/travis_roberts.27tenm80)
+MVP, MCT, Sr Technical Trainer @ Nerdio, Blogger and Enthusiast, Ciraltos llc
+
+
+
+
+ [Chris Cavazos](https://mms2026atmoa.sched.com/speaker/chris_cavazos.27to6pmu)
+Microsoft MVP, Principal Consultant/Practice Technical Lead, Quisitive
+
 
 
 

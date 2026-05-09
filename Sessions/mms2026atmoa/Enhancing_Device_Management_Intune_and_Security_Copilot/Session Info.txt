@@ -10,6 +10,20 @@ What you will learn:
 * Explore AI-powered agents that automate common administrative tasks and operations.
 * Learn how the new Explorer experience enables intuitive navigation and action within Intune.
 * Gain insight into upcoming AI capabilities and how they will impact endpoint management strategies.
+Provide Feedback
+
+Speakers  
+
+
+ [Daniel Gerrity](https://mms2026atmoa.sched.com/speaker/daniel.gerrity)
+Product Manager, Microsoft
+
+Product Manager with the Microsoft Intune Engineering Group since 2015. I work on Intune's Device Query, Explorer and Reporting Diagnostic logs features. Guides  
+
+
+ [Swapna Medi](https://mms2026atmoa.sched.com/artist/swapnam1)
+Engineering Lead, Microsoft
+
 
 
 

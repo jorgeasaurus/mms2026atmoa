@@ -10,6 +10,7 @@ What you will learn:
 * Learn to extract and store Intune data effectively using Microsoft Graph for custom insights.
 * Design actionable reports that empower admins to make informed decisions, not just observe data.
 * Develop operational dashboards that provide key insights beyond the capabilities of Intune alone.
+Provide Feedback
 
 
 

@@ -10,6 +10,7 @@ What you will learn:
 * Discover the essentials of identities, including Users, Service Principals, and Managed Identities.
 * Align use cases with identity types for optimized security strategies.
 * Prepare for future advancements by connecting workload IDs with AI use cases.
+Provide Feedback
 
 Speakers  
 

@@ -1,0 +1,17 @@
+Session Title: 
+DeployR Community Edition: A Free MDT Replacement
+
+  Description:
+Discover DeployR's free version for modern PC deployments, showcasing its powerful capabilities and ease of setup. Learn to integrate DeployR with community projects like PSD and explore the migration process from MDT. Access hands-on insights into deploying this innovative solution, ensuring a streamlined transition and understanding of DeployR's future potential in endpoint management.
+
+What you will learn:
+ 
+* Learn how DeployR enhances and simplifies your PC deployment processes. 
+* Understand the step-by-step setup of DeployR in a lab environment.
+* Gain insights into the migration process from MDT to DeployR seamlessly.
+* Explore the future developments and potential of DeployR in the community.
+Provide Feedback
+
+
+
+

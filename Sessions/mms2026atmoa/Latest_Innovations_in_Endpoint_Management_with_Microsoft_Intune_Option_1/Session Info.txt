@@ -1,0 +1,17 @@
+Session Title: 
+Latest Innovations in Endpoint Management with Microsoft Intune (Option 1)
+
+  Description:
+Microsoft Intune is steadily evolving, introducing new features that enhance endpoint management and user experience on Windows and macOS. Discover the latest upgrades in enrollment, provisioning, and device lifecycle management, including enhancements to Autopilot and macOS onboarding, along with fresh security measures and user experience improvements aimed at easing device transitions and fortifying the Intune environment.
+
+What you will learn:
+ 
+* Understand the latest enhancements to Windows Autopilot and macOS enrollment and provisioning. 
+* Explore new recovery and device lifecycle management capabilities within Intune.
+* Learn how recent user experience improvements simplify device transitions and onboarding.
+* Identify new security features and controls that strengthen your Intune-managed environment.
+Provide Feedback
+
+
+
+

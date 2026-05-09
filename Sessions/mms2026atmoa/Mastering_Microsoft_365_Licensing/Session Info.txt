@@ -1,0 +1,29 @@
+Session Title: 
+Mastering Microsoft 365 Licensing
+
+  Description:
+Navigate the complexities of Microsoft 365 licensing to enhance productivity while ensuring compliance. Understand the foundational role licensing plays in implementing proper controls within your tenant. Explore which SKUs to avoid, discover new features included in existing licenses, and learn strategic product choices that maximize budgetary efficiency while extending security protections.
+
+What you will learn:
+ 
+* Discover new features available within your existing Microsoft 365 licenses. 
+* Understand the specific rules governing each main license type for informed decisions.
+* Identify key indicators of how Microsoft alters SKUs and product offerings.
+* Uncover strategies to optimize product choices for better budget utilization and enhanced protections.
+Provide Feedback
+
+Speakers  
+
+
+ [Lewis Barry](https://mms2026atmoa.sched.com/speaker/lewisbarry612)
+Principal Security Architect, Microsoft MVP | inforcer
+I usually work with SMB customers across Intune, Entra, Defender and M365 in an MSP setting.
+
+ [Lee Schlipphak](https://mms2026atmoa.sched.com/speaker/lee.schlipphak)
+Consultant, SVA System Vertrieb Alexander GmbH
+I am Lee Schlipphak, Consultant and System Engineer with a focus on Microsoft Intune, Entra ID, Defender XDR, as well as topics related to Identity and Endpoint Security.
+
+In my daily work, I help my clients develop and successfully implement tailored IT solutions.
+In addition to my professional activities, I am actively involved in the Microsoft Intune and Windows communities. I regularly share my knowledge and experiences on LinkedIn to inspire others and foster exchange within the community...  [Read More ](https://mms2026atmoa.sched.com/speaker/lee.schlipphak)
+
+

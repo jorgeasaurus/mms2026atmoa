@@ -10,6 +10,7 @@ What you will learn:
 * Leverage low-code integration with Power Platform for seamless development.
 * Scale Copilot Studio agents through Microsoft MCP Server and custom connectors.
 * Discover practical examples of creating agents to assist IT professionals with daily tasks.
+Provide Feedback
 
 Speakers  
 

@@ -1,0 +1,30 @@
+Session Title: 
+Master PowerShell Configuration in VS Code
+
+  Session DescriptionA practical, fresh-install playbook for configuring VS Code for PowerShell work. We start from a clean install and build out profiles, recommended settings, essential extensions, GitHub integration, and GitHub Copilot. Attendees leave with a customizable starter profile, a settings baseline, and four repeatable habits for PowerShell editing, version control, and AI-assisted code authoring.
+
+What you will learn
+* A customizable VS Code profile built for PowerShell work.
+* A recommended settings baseline with formatting and security covered.
+* GitHub integration -- clone, branch, commit, and review PRs without leaving VS Code.
+* GitHub Copilot configured and scoped to your PowerShell style.
+https://github.com/OSDeploy/mmsmoa26-powershell-configuration-vs-code
+Provide Feedback
+
+Speakers  
+
+
+ [David Segura](https://mms2026atmoa.sched.com/speaker/david_segura.27tenlxt)
+Senior Software Engineer, Recast Software
+I've just started at Recast Software working on OSDCloud as a Senior Software Engineer.
+While I am a Microsoft MVP in PowerShell, all of my community content is focused Windows OS Deployment.
+I'm most well known for OSDCloud, the OSD PowerShell Module, and OSDBuilder.
+
+
+...  [Read More ](https://mms2026atmoa.sched.com/speaker/david_segura.27tenlxt)
+
+ [Jeff Scripter](https://mms2026atmoa.sched.com/speaker/jeff_scripter.28jia85t)
+Staff Engineer, Recast Software
+
+
+

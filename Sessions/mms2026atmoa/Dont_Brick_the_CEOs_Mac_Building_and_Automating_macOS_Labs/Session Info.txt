@@ -12,6 +12,15 @@ What you will learn:
 * Utilize the provided GitHub starter kit to enhance your Windows automation skills for effective macOS policy management.
 Provide Feedback
 
+Speakers  
 
+
+ [Frank Lesniak](https://mms2026atmoa.sched.com/speaker/frank_lesniak.27tenjx3)
+Sr. Cybersecurity & Enterprise Technology Architect, West Monroe
+Frank Lesniak is a Sr. Cybersecurity & Enterprise Technology Architect at West Monroe with 20+ years of experience leading consulting engagements involving Microsoft infrastructure technology. His expertise spans modern cloud platforms such as Azure, Microsoft 365, and Entra ID, as...  [Read More ](https://mms2026atmoa.sched.com/speaker/frank_lesniak.27tenjx3)
+
+ [Michael Niehaus](https://mms2026atmoa.sched.com/speaker/michael_niehaus.29cuco8l)
+Programme Director and Master Inventor, 2Pint Software, 2Pint Software
+Michael Niehaus is a Programme Director and Master Inventor at 2Pint Software, working on device management and OS deployment technologies. Previously, Michael spent 16 years at Microsoft working on MDT, Windows as a Service, Windows Autopilot, and related management and deployment...  [Read More ](https://mms2026atmoa.sched.com/speaker/michael_niehaus.29cuco8l)
 
 

@@ -10,6 +10,7 @@ What you will learn:
 * Integrate Intune APIs and Windows Autopatch APIs into effective AI-driven workflows.
 * Learn best practices for designing secure, scalable agentic apps tailored for enterprise needs.
 * Develop your own automation app for compliance remediation and efficient app deployment.
+Provide Feedback
 
 Speakers  
 

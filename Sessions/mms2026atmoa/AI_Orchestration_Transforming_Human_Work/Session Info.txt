@@ -1,0 +1,26 @@
+Session Title: 
+AI Orchestration: Transforming Human Work
+
+  Description:
+Explore the architecture of orchestrated AI systems that manage complexity in real-world environments. Delve into the coordination of models, tools, memory, and decision loops essential for effective production-level performance. Gain insights into what differentiates toy agents from functional software, backed by tangible lessons and practical mental models for implementing reliable AI solutions.
+
+What you will learn:
+ 
+* Understand why relying solely on prompting is insufficient for production-grade AI implementation. 
+* Learn how to effectively coordinate models, tools, memory, and workflows for optimized performance.
+* Identify patterns that enhance the reliability and utility of AI systems in diverse environments.
+* Differentiate between real architectures that deliver results and demo theater that lacks substance.
+Provide Feedback
+
+Speakers  
+
+
+ [Chris Sires](https://mms2026atmoa.sched.com/speaker/chris.sires)
+AI Engineering Manager, ScienceLogic
+With more than 30 years of software development experience, including 25 years at Microsoft, Chris Sires brings deep engineering perspective to the new world of AI. After leaving Microsoft, he went all-in on applied AI, built a successful SaaS business from the ground up with AI tools...  [Read More ](https://mms2026atmoa.sched.com/speaker/chris.sires)
+
+ [Kevin Grossnicklaus](https://mms2026atmoa.sched.com/speaker/kvgros)
+President, ArchitectNow
+Kevin started developing software in 1985 at the age of 10, when his new Apple IIgs booted to a command prompt and he didn’t know what else to do with it. He went on to found ArchitectNow in 2008 after spending 11 years as the Chief Architect and Software Development Practice Leader...  [Read More ](https://mms2026atmoa.sched.com/speaker/kvgros)
+
+

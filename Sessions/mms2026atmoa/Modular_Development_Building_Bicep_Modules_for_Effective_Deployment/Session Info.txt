@@ -1,0 +1,28 @@
+Session Title: 
+Modular Development: Building Bicep Modules for Effective Deployment
+
+  Description:
+Achieve consistency and reusability in cloud deployments by creating modular Bicep templates stored in an Azure Container Registry. Integrate these modules into Azure DevOps pipelines to enable standardized deployments and minimize duplication. Streamline your infrastructure-as-code practices and enhance maintainability with key development principles and actionable strategies for effective module management.
+
+What you will learn:
+ 
+* Understand principles of modular development with Bicep for scalable infrastructure-as-code solutions. 
+* Learn to build and publish Bicep modules to an Azure Container Registry for centralized management and reuse.
+* Discover integration techniques for utilizing shared modules across multiple projects and repositories in Azure DevOps.
+* Gain best practices for versioning and governance to ensure deployment consistency and reliability.
+Provide Feedback
+
+Speakers  
+
+
+ [Scott Corio](https://mms2026atmoa.sched.com/speaker/scott_corio.27sdm7bd)
+Microsoft MVP, Enterprise Cloud Architect, MMS Staff
+Boasting over 20 years in IT, Scott is not only an esteemed Enterprise Cloud Architect for a major healthcare giant, but he's also a Microsoft MVP in the Azure category. With a diverse portfolio spanning healthcare, non-profit, telecommunications, retail, and travel sectors, his expertise...  [Read More ](https://mms2026atmoa.sched.com/speaker/scott_corio.27sdm7bd)
+
+ [David Brook](https://mms2026atmoa.sched.com/speaker/david_brook.27tenjix)
+Managing Consultant & Microsoft MVP, CloudXP Ltd
+David, a distinguished Microsoft MVP in the Security category, brings a wealth of expertise in Microsoft Intune and Device Management capabilities. _x000D_
+ _x000D_
+ Beyond his specialisation, David's versatility shines as he navigates the breadth of the Microsoft ecosystem, seamle...  [Read More ](https://mms2026atmoa.sched.com/speaker/david_brook.27tenjix)
+
+

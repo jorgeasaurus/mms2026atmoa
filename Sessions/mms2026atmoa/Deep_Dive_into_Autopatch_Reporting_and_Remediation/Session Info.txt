@@ -1,0 +1,33 @@
+Session Title: 
+Deep Dive into Autopatch Reporting and Remediation
+
+  Description:
+Reporting has long been a challenge in managing cloud updates. Recent enhancements to data streams and reports in Autopatch revolutionize how you access and interpret this information. Understand current reporting capabilities, explore remediations functioning behind the scenes, and gain insight into future developments. Provide your input on shaping the next steps for reporting that aligns with your needs.
+
+What you will learn:
+ 
+* Access an overview of the reporting capabilities available in Autopatch today. 
+* Understand the remediations that are currently available within Autopatch.
+* Get insights into upcoming features and enhancements in Autopatch.
+* Engage in discussions on how to tailor reporting features to better meet your needs.
+Provide Feedback
+
+Speakers  
+
+
+ [Ken Goossens](https://mms2026atmoa.sched.com/speaker/ken_goosens.29bhu3nc)
+Senior CE Product Manager, Microsoft
+
+
+
+
+ [Harman Thind](https://mms2026atmoa.sched.com/speaker/harman.thind)
+Senior Product Manager, Microsoft
+
+Harman Thind is a Senior Product Manager at Microsoft focused on Windows servicing and update management, where he leads work on Windows Autopatch and enterprise update experiences. He partners closely with IT admins and customers to design solutions that improve reliability, visibility...  [Read More ](https://mms2026atmoa.sched.com/speaker/harman.thind)
+
+ [Surabhi Calla](https://mms2026atmoa.sched.com/speaker/surabhicallamicrosoftcom.29du7neq)
+Senior Product Manager, Microsoft
+A Senior Product Manager at Microsoft, specializing in Autopatch and Windows Update Management. Focused on building customer-centric solutions, driving automation, and optimizing enterprise update management.
+
+

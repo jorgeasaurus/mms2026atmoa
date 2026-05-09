@@ -1,0 +1,22 @@
+Session Title: 
+The PAW Survival Guide: Deploying Secure Admin Workstations in Real Environments
+
+  Description:
+Design and deploy Privileged Access Workstations (PAWs) effectively within real-world settings. Focus on practical architectures, common pitfalls, and lessons from field implementations. Gain insights on integrating PAW into current identity and security frameworks while minimizing risks, especially within Zero Trust models. Real-world examples will empower attendees to scale their deployment strategies for enhanced security and usability.
+
+What you will learn:
+ 
+* Understand practical PAW architecture and adapt it to real-world environments and constraints. 
+* Integrate PAW into existing identity and security models, including Zero Trust approaches.
+* Gain real lessons from the field for designing, deploying, and operating Privileged Access Workstations at scale.
+* Identify common deployment pitfalls and learn proven strategies to avoid or mitigate them.
+Provide Feedback
+
+Speakers  
+
+
+ [Mikael Nyström](https://mms2026atmoa.sched.com/speaker/mikael_nystrom.27sn47jl)
+Microsoft MVP, Geek, Truesec
+I am veteran of the industry and I can honestly tell you that I am not your regular consultant. I change wrong into right and explain the “why” behind it to make sure that you, my client, understands, trust, and buys-in to the path that we continue on. As a long time Microsoft...  [Read More ](https://mms2026atmoa.sched.com/speaker/mikael_nystrom.27sn47jl)
+
+

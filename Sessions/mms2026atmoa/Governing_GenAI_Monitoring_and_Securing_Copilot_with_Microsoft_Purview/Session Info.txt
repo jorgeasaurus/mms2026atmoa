@@ -10,6 +10,7 @@ What you will learn:
 * Create a lightweight monitoring view using Purview Audit to track Copilot activity, policy hits, and identify false positives.
 * Implement policy patterns to prevent sensitive data exposure in prompts and outputs while stopping exfiltration avenues.
 * Develop a phased rollout plan incorporating cohorts, simulation modes, and metrics to ensure a balance between productivity and security.
+Provide Feedback
 
 Speakers  
 

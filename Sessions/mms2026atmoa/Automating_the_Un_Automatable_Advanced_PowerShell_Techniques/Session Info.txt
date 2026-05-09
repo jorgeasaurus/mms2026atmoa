@@ -10,6 +10,7 @@ What you will learn:
 * Explore Windows internals effectively with WMI Explorer to enhance your automation capabilities.
 * Utilize SQL Profiler to identify and analyze database queries crucial for automation tasks.
 * Learn how to identify and leverage .NET assemblies within applications for advanced automation solutions.
+Provide Feedback
 
 Speakers  
 

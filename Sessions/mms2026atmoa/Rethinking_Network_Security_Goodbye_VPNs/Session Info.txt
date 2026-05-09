@@ -12,6 +12,11 @@ What you will learn:
 * Access practical guidance and hands-on experience in configuring a secure access solution that meets today's demands.
 Provide Feedback
 
+Speakers  
 
+
+ [Richard Hicks](https://mms2026atmoa.sched.com/speaker/rich295)
+President, Richard M. Hicks Consulting, Inc.
+Richard Hicks is the founder and principal consultant at Richard M. Hicks Consulting, Inc. A Microsoft Most Valuable Professional (MVP) with more than 30 years of experience implementing secure remote access and public key infrastructure (PKI) solutions, he is a widely recognized...  [Read More ](https://mms2026atmoa.sched.com/speaker/rich295)
 
 

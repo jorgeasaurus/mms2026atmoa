@@ -10,6 +10,7 @@ What you will learn:
 * Explore Arc-enabled update management patterns to enhance patching success.
 * Master coordinated patching techniques across hybrid infrastructure environments.
 * Discover best practices to avoid update-induced disruptions in your systems.
+Provide Feedback
 
 Speakers  
 

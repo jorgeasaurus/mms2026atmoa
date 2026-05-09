@@ -10,7 +10,19 @@ What you will learn:
 * Connect GitHub repositories for proactive code supply scanning, uncover findings, and enhance your security score.
 * Utilize Defender EASM to identify relationships among known assets and reveal previously unmonitored artifacts.
 * Extend CSPM and CWP protections to any cloud resource using multi-cloud connectors and/or Azure Arc.
+Provide Feedback
+
+Speakers  
 
 
+ [John Joyner](https://mms2026atmoa.sched.com/speaker/john_joyner.27sn3wus)
+Microsoft MVP, Senior Director, Technology, Corsica Technologies
+John is Senior Director, Technology at Corsica Technologies, an MSP/MSSP providing NOC & SOC services to organizations around the world. He's a Microsoft Azure MVP and a Security MVP, and has been awarded Microsoft MVP for 18 years (2007-2026). An author of five books on operations...  [Read More ](https://mms2026atmoa.sched.com/speaker/john_joyner.27sn3wus)
+
+ [Morten Knudsen](https://mms2026atmoa.sched.com/speaker/morten_knudsen.27sn3yb1)
+Triple Microsoft MVP (Security, Azure, Security Copilot) | MCT | Security & Cloud Architect | Co-Founder Experts Live De, 2LINKIT
+Morten is a Triple Microsoft MVP (Security, Azure, and Security Copilot), a Microsoft Certified Trainer, and holds over 17 active Microsoft certifications.
+
+As a Cloud and Security Architect, he focuses on Azure infrastructure, Microsoft 365, automation, security, AI, and hybrid cl...  [Read More ](https://mms2026atmoa.sched.com/speaker/morten_knudsen.27sn3yb1)
 
 

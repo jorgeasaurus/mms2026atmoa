@@ -10,6 +10,7 @@ What you will learn:
 * Integrate Intune with Windows for a streamlined app delivery process.
 * Implement techniques for efficiently patching and updating deployed applications.
 * Learn to avoid common pitfalls in app deployment and application management.
+Provide Feedback
 
 Speakers  
 

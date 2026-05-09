@@ -10,6 +10,7 @@ What you will learn:
 * Master migration strategies and tools for a seamless transition from VMware to Azure Local/Hyper-V, including workload assessment, conversion processes, and minimizing downtime.
 * Leverage Azure Arc to manage hybrid infrastructure with unified governance, monitoring, and security across on-premises Hyper-V and cloud workloads from a single control plane.
 * Implement enterprise-grade features, including clustering, live migration, software-defined networking, and disaster recovery solutions that match or exceed VMware capabilities.
+Provide Feedback
 
 
 

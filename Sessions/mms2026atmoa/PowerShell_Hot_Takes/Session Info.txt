@@ -1,0 +1,26 @@
+Session Title: 
+PowerShell Hot Takes
+
+  Description:
+Navigate the complex landscape of PowerShell with a critical examination of widely held beliefs and contemporary practices. Uncover why there's no universal approach to writing PowerShell scripts, highlighting varying expert opinions on debugging, error handling, performance optimization, and GUI/UI implementation, helping attendees navigate through outdated practices and gain insights into modern methodologies.
+
+What you will learn:
+ 
+* Explore different techniques for debugging and effective error handling in PowerShell scripts. 
+* Understand various perspectives on performance optimization to enhance script efficiency.
+* Examine diverse opinions surrounding GUI/UI implementation for better user experience.
+* Gain insights into modern PowerShell practices to elevate your scripting skills.
+Provide Feedback
+
+Speakers  
+
+
+ [Nathan Ziehnert](https://mms2026atmoa.sched.com/speaker/nathan_ziehnert.27sdlp62)
+Microsoft MVP, Principal Engineer, 2Pint Software
+I dig Windows systems from consumer to enterprise, I'm in an eternal love affair with PowerShell and C#, and I also like to play in Azure. I have a blog... you can read my blog... the link is above (or below? who knows?!). You might also find me doing karaoke whenever the opportunity...  [Read More ](https://mms2026atmoa.sched.com/speaker/nathan_ziehnert.27sdlp62)
+
+ [Jeff Scripter](https://mms2026atmoa.sched.com/speaker/jeff_scripter.28jia85t)
+Staff Engineer, Recast Software
+
+
+

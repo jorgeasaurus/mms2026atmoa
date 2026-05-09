@@ -10,7 +10,13 @@ What you will learn:
 * Identify practical coexistence scenarios and potential technology conflicts that may arise during the transition.
 * Acquire a clear migration roadmap that guides the transition to full Zero Trust Network Access, serving as a legacy VPN replacement.
 * Learn best practices for integrating Entra Private Access while leveraging existing VPN infrastructure for seamless adaptation.
+Provide Feedback
+
+Speakers  
 
 
+ [Richard Hicks](https://mms2026atmoa.sched.com/speaker/rich295)
+President, Richard M. Hicks Consulting, Inc.
+Richard Hicks is the founder and principal consultant at Richard M. Hicks Consulting, Inc. A Microsoft Most Valuable Professional (MVP) with more than 30 years of experience implementing secure remote access and public key infrastructure (PKI) solutions, he is a widely recognized...  [Read More ](https://mms2026atmoa.sched.com/speaker/rich295)
 
 

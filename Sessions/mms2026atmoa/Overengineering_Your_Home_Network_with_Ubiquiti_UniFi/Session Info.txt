@@ -1,0 +1,26 @@
+Session Title: 
+Overengineering Your Home Network with Ubiquiti UniFi
+
+  Description:
+Transform a mundane home network into a high-performance system using Ubiquiti UniFi. Delve into the latest products, reference architectures, and diverse controller options like CloudKey and self-hosted solutions. Explore advanced features such as site-to-site VPNs, policy-based routing, VLANs, and centralized logging. Embrace the challenge of designing a home network that rivals data center setups, complete with exciting accessories and innovations.
+
+What you will learn:
+ 
+* Architect a UniFi-based home network utilizing reference patterns for routing, switching, Wi-Fi, segmentation, and security similar to enterprise designs. 
+* Implement features like site-to-site VPNs and VLAN segmentation while avoiding pitfalls that lead to network outages.
+* Determine the best controller option—CloudKey, self-hosted, or HostiFi—and integrate Protect appliances and UniFi’s latest accessories effectively.
+* Explore how unique UniFi accessories can enhance home networking experiences, making it engaging and efficient.
+Provide Feedback
+
+Speakers  
+
+
+ [Frank Lesniak](https://mms2026atmoa.sched.com/speaker/frank_lesniak.27tenjx3)
+Sr. Cybersecurity & Enterprise Technology Architect, West Monroe
+Frank Lesniak is a Sr. Cybersecurity & Enterprise Technology Architect at West Monroe with 20+ years of experience leading consulting engagements involving Microsoft infrastructure technology. His expertise spans modern cloud platforms such as Azure, Microsoft 365, and Entra ID, as...  [Read More ](https://mms2026atmoa.sched.com/speaker/frank_lesniak.27tenjx3)
+
+ [Blake Cherry](https://mms2026atmoa.sched.com/speaker/blake_cherry.27xxdwaq)
+Principal in Cybersecurity & Enterprise Technology, West Monroe
+Blake is a Principal in West Monroe's Technology practice, operating out of Chicago, IL. Known for accelerating the delivery of best practice infrastructure by leveraging infrastructure as code, his expertise lies in Azure, Microsoft 365, and Infrastructure Automation, with a specialized...  [Read More ](https://mms2026atmoa.sched.com/speaker/blake_cherry.27xxdwaq)
+
+

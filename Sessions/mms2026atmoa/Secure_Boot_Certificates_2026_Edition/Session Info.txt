@@ -10,6 +10,7 @@ What you will learn:
 * Explore efficient testing and deployment strategies to ensure smooth transitions.
 * Learn best practices for managing boot media, recovery media, and PXE booting.
 * Understand how to enforce revocations and maintain a steady state post-remediation.
+Provide Feedback
 
 Speakers  
 

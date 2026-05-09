@@ -1,0 +1,26 @@
+Session Title: 
+Navigating Windows Autopilot: Comprehensive Scenarios Guide
+
+  Description:
+Dive into the expanded landscape of Windows Autopilot with insights into both Autopilot v1 and the new v2 (Device Preparation). Review the complete array of scenarios, learn setup processes, and discover strategies to address gaps and limitations effectively. This session equips attendees with solutions to maximize Autopilot's potential for their environments.
+
+What you will learn:
+ 
+* Gain a clear understanding of available Autopilot scenarios along with their limitations. 
+* Learn precise steps for implementing various Autopilot scenarios in your environment.
+* Discover effective methods to work around existing limitations in Autopilot.
+* Access valuable strategies for enhancing your deployment using the Autopilot framework.
+Provide Feedback
+
+Speakers  
+
+
+ [Rudy Ooms](https://mms2026atmoa.sched.com/speaker/info15025)
+Call4cloud | MVP | Mister MDM, Patch My PC
+Rudy Ooms works as a Content Creator Manager at Patch My PC as of June 2024. He utilizes his extensive IT experience to create and manage content, particularly focusing on Microsoft Intune, Windows Autopilot, and Endpoint Privilege Management (EPM).One of his hobbies (next to drinking...  [Read More ](https://mms2026atmoa.sched.com/speaker/info15025)
+
+ [Michael Niehaus](https://mms2026atmoa.sched.com/speaker/michael_niehaus.29cuco8l)
+Programme Director and Master Inventor, 2Pint Software, 2Pint Software
+Michael Niehaus is a Programme Director and Master Inventor at 2Pint Software, working on device management and OS deployment technologies. Previously, Michael spent 16 years at Microsoft working on MDT, Windows as a Service, Windows Autopilot, and related management and deployment...  [Read More ](https://mms2026atmoa.sched.com/speaker/michael_niehaus.29cuco8l)
+
+

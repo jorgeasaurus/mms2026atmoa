@@ -1,0 +1,26 @@
+Session Title: 
+From Noise to Clarity: Leveraging Health Models in Azure Monitor
+
+  Description:
+Transform application management with the new Health Models feature in Azure Monitor. Visualize components of your Azure applications while assessing their health at a glance. Learn to create alerts for degraded application health rather than minor issues, using signals derived from metrics and logs to enhance your monitoring strategy effectively. Discover streamlined methods for establishing efficient alerting based on the health relationships of components.
+
+What you will learn:
+ 
+* Model application health effectively by analyzing components and their interrelationships. 
+* Utilize multiple signals derived from metrics and logs to accurately measure component health.
+* Develop an alerting strategy focused on overall application health rather than individual metrics.
+* Implement efficient monitoring solutions and leverage Health Models for better application insight.
+Provide Feedback
+
+Speakers  
+
+
+ [John Joyner](https://mms2026atmoa.sched.com/speaker/john_joyner.27sn3wus)
+Microsoft MVP, Senior Director, Technology, Corsica Technologies
+John is Senior Director, Technology at Corsica Technologies, an MSP/MSSP providing NOC & SOC services to organizations around the world. He's a Microsoft Azure MVP and a Security MVP, and has been awarded Microsoft MVP for 18 years (2007-2026). An author of five books on operations...  [Read More ](https://mms2026atmoa.sched.com/speaker/john_joyner.27sn3wus)
+
+ [Brian Wren](https://mms2026atmoa.sched.com/speaker/brian_wren.27srmplv)
+Principal Content Developer & Monitoring Guru, Microsoft
+Brian Wren is a Principal Content Developer with Microsoft focusing on cloud management technologies including Azure Monitor. He has produced extensive documentation and training materials for System Center, most notably management pack authoring in Operations Manager, and is carrying...  [Read More ](https://mms2026atmoa.sched.com/speaker/brian_wren.27srmplv)
+
+

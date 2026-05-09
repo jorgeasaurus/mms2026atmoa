@@ -1,0 +1,26 @@
+Session Title: 
+Cure Script Fatigue: Achieve Reliable Endpoint State with DSC v3
+
+  Description:
+Tackle script fatigue and switch from brittle imperative scripts to reliable, self-correcting configurations using DSC v3, the modern, agentless runtime. A live coding break/fix demo will illustrate how to prevent drift, standardize logging, and manage reboots safely within Intune or ConfigMgr. Attendees will walk away with a comprehensive GitHub starter kit to transform unreliable scripts into robust, self-healing baselines.
+
+What you will learn:
+ 
+* Adopt a 'two-layer' operating model that uses Intune/ConfigMgr for delivery while leveraging DSC v3 for reliable, self-correcting configuration state. 
+* Implement a production-grade Execution Template to standardize exit codes, prevent 'false green' reporting, and capture durable evidence for troubleshooting.
+* Master practical techniques for offline packaging, reboot orchestration, and secrets management to replace brittle imperative scripts with reliable DSC v3 patterns.
+* Walk away with a complete GitHub starter kit containing runner templates, validation tools, and sample configurations ready to deploy in your environment.
+Provide Feedback
+
+Speakers  
+
+
+ [Frank Lesniak](https://mms2026atmoa.sched.com/speaker/frank_lesniak.27tenjx3)
+Sr. Cybersecurity & Enterprise Technology Architect, West Monroe
+Frank Lesniak is a Sr. Cybersecurity & Enterprise Technology Architect at West Monroe with 20+ years of experience leading consulting engagements involving Microsoft infrastructure technology. His expertise spans modern cloud platforms such as Azure, Microsoft 365, and Entra ID, as...  [Read More ](https://mms2026atmoa.sched.com/speaker/frank_lesniak.27tenjx3)
+
+ [Blake Cherry](https://mms2026atmoa.sched.com/speaker/blake_cherry.27xxdwaq)
+Principal in Cybersecurity & Enterprise Technology, West Monroe
+Blake is a Principal in West Monroe's Technology practice, operating out of Chicago, IL. Known for accelerating the delivery of best practice infrastructure by leveraging infrastructure as code, his expertise lies in Azure, Microsoft 365, and Infrastructure Automation, with a specialized...  [Read More ](https://mms2026atmoa.sched.com/speaker/blake_cherry.27xxdwaq)
+
+

@@ -1,0 +1,26 @@
+Session Title: 
+Intune Suite: Evolution and Future Integrations
+
+  Description:
+Discover the evolution of the Microsoft Intune Suite and its future impact on endpoint management. Gain insights into the product roadmap, upcoming integrations, and strategic changes affecting organizational adoption. Engage directly with the engineering team to voice your feedback and play a role in shaping the Intune ecosystem’s direction.
+
+What you will learn:
+ 
+* Understand current capabilities and the evolving role of the Intune Suite in endpoint management. 
+* Explore upcoming integrations and roadmap items that will shape the platform's future.
+* Learn how changes to the suite affect licensing, positioning, and adoption strategies within organizations.
+* Engage with the product team, offering feedback to influence future development of the Intune ecosystem.
+Provide Feedback
+
+Speakers  
+
+
+ [Matt Call](https://mms2026atmoa.sched.com/speaker/mattcall1)
+PM Architect - Core Infrastructure and Security, Microsoft
+Matt is a Principal Product Manager on the Microsoft Endpoint Manager engineering squad responsible for Endpoint Security and other various security integrations. He's spent a majority of his life working/consulting/architecting Windows clients in extremely large enterprises. Because...  [Read More ](https://mms2026atmoa.sched.com/speaker/mattcall1)
+
+ [Mike Danoski](https://mms2026atmoa.sched.com/speaker/mike.danoski)
+Product Manager - Microsoft Intune, Microsoft
+Mike Danoski is a Principal Product Manager on the Microsoft Intune team focused on Endpoint Privilege Management and AI‑driven policy configuration experiences. Mike works at the intersection of Windows management and AI, building agent‑based capabilities that help IT admins...  [Read More ](https://mms2026atmoa.sched.com/speaker/mike.danoski)
+
+

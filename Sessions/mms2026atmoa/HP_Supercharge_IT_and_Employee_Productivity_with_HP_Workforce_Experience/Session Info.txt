@@ -14,6 +14,7 @@ What you will learn:
 * Utilize scripts to generate environmental reports effortlessly, gaining valuable insights into your digital landscape.
 * Gain enhanced control over BIOS and driver updates, including configuration management for your devices.
 * Explore a variety of practical demos; a wealth of information awaits in our presentation deck for later review.
+Provide Feedback
 
 
 

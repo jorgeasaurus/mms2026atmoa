@@ -1,0 +1,27 @@
+Session Title: 
+Patch Me If You Can: Surviving Multi-Phase Feature Updates with Windows Autopatch
+
+  Description:
+Deploying Windows updates can feel like an adventure filled with unexpected challenges. Navigate the multi-phase Windows Autopatch deployments structured like a Broadway show: Act I: Test, Act II: First Ring, and so on,直到Finale: Last Ring. This session reveals the strategies for avoiding common deployment pitfalls and ensuring seamless updates across your organization.
+
+What you will learn:
+ 
+* Demystify Autopatch's phased rollout strategy to prevent common deployment mistakes, such as updating Finance before IT. 
+* Gain practical tips for maintaining endpoint health and ensuring devices stay up-to-date effortlessly.
+* Walk away with a clear roadmap for managing update rings without the confusion associated with jewelry.
+* Learn best practices to enhance your update process and streamline feature deployment for a better user experience.
+Provide Feedback
+
+Speakers  
+
+
+ [Steve Jesok](https://mms2026atmoa.sched.com/speaker/steve_jesok.28jia8kd)
+Systems Management and Automation Professional, Banking/Finance
+I am an experienced information technology professional specializing in IT operations, systems management, and automation within large-scale enterprise environments. My career has focused on maintaining and optimizing complex IT infrastructures, where I have developed deep expertise...  [Read More ](https://mms2026atmoa.sched.com/speaker/steve_jesok.28jia8kd)
+
+ [Harman Thind](https://mms2026atmoa.sched.com/speaker/harman.thind)
+Senior Product Manager, Microsoft
+
+Harman Thind is a Senior Product Manager at Microsoft focused on Windows servicing and update management, where he leads work on Windows Autopatch and enterprise update experiences. He partners closely with IT admins and customers to design solutions that improve reliability, visibility...  [Read More ](https://mms2026atmoa.sched.com/speaker/harman.thind)
+
+

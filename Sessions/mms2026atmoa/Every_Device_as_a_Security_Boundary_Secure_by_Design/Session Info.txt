@@ -1,0 +1,17 @@
+Session Title: 
+Every Device as a Security Boundary: Secure by Design
+
+  Description:
+Take ownership of your identity control plane with Microsoft Entra ID, focusing on device security. Analyze real-world security profiles like ENT, SAW, and PAW, and implement phishing-resistant authentication using FIDO2 and Windows Hello for Business. Discover how device tagging, Intune filters, and automated conditional access policies can establish a scalable, secure, and enforceable identity model for Windows 365 Cloud PCs, virtual machines, and physical devices.
+
+What you will learn:
+ 
+* Understand how devices shape trust and security boundaries. 
+* Implement phishing-resistant authentication standards for all device types.
+* Leverage device tags and filters to simplify Intune management.
+* Automate conditional access to ensure consistent identity control.
+Provide Feedback
+
+
+
+

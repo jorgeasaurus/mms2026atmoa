@@ -1,0 +1,26 @@
+Session Title: 
+AI Fundamentals: Demystifying Artificial Intelligence
+
+  Description:
+Understand the essentials of AI through clear explanations and live examples that make complex concepts approachable. Explore different types of AI, common terminology, and the underlying technologies driving modern systems. Gain a solid foundation in key topics like machine learning and neural networks, empowering you to engage confidently in AI discussions and deepen your knowledge. This session is perfect for newcomers and those seeking to fill knowledge gaps.
+
+What you will learn:
+ 
+* Gain a clear understanding of key AI concepts such as machine learning, neural networks, and generative models. 
+* Differentiate between narrow AI, general AI, agents, operators, and various common categories.
+* Receive practical explanations of the technologies powering modern AI, from training data to inference mechanisms.
+* Build confidence to discuss AI accurately, enabling you to ask deeper questions in future discussions.
+Provide Feedback
+
+Speakers  
+
+
+ [Nathan Ziehnert](https://mms2026atmoa.sched.com/speaker/nathan_ziehnert.27sdlp62)
+Microsoft MVP, Principal Engineer, 2Pint Software
+I dig Windows systems from consumer to enterprise, I'm in an eternal love affair with PowerShell and C#, and I also like to play in Azure. I have a blog... you can read my blog... the link is above (or below? who knows?!). You might also find me doing karaoke whenever the opportunity...  [Read More ](https://mms2026atmoa.sched.com/speaker/nathan_ziehnert.27sdlp62)
+
+ [Donnie Taylor](https://mms2026atmoa.sched.com/speaker/donnie_taylor.27sdm6lt)
+Microsoft MVP, Architect, GM
+Donnie is an IT architect and leader with 25+ years in enterprise systems management and automation. He has led multiple systems-management user groups and delivered 400+ conference sessions and workshops. A eight-time Microsoft MVP (Cloud and Datacenter Management, Azure, PowerShell...  [Read More ](https://mms2026atmoa.sched.com/speaker/donnie_taylor.27sdm6lt)
+
+

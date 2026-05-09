@@ -1,0 +1,17 @@
+Session Title: 
+Prompt Engineering: Mastering the Craft Two Years Later
+
+  Description:
+Sharpen your prompt engineering skills by learning to ask smarter questions, structure context, and tailor prompts for chat, retrieval, and workflow agents. Discover effective patterns, anti-patterns, and safety measures through engaging demos and take-home templates designed for rapid deployment of reliable agents. Experience an exciting AI 'boss fight' to put your newfound skills to the test.
+
+What you will learn:
+ 
+* Review diverse prompt patterns and techniques for optimizing performance across different AI engines. 
+* Gain hands-on experience building a straightforward M365 agent tailored to your needs.
+* Uncover strategies to maximize the potential of Teams Premium and M365 Copilot tools.
+* Access essential take-home templates for efficient agent deployment and improved workflows.
+Provide Feedback
+
+
+
+

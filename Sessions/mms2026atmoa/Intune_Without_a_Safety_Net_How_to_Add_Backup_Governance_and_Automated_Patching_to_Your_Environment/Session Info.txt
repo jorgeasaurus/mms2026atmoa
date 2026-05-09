@@ -1,0 +1,13 @@
+Session Title: 
+Intune Without a Safety Net: How to Add Backup, Governance, and Automated Patching to Your Environment
+
+  Intune is powerful but it ships without backups, approval workflows, audit trails, or automated patching. In this session, we'll show you how to close those gaps using Robopack and Tenant Manager. You'll leave knowing how to protect your Intune configuration from drift and accidental changes, automate your entire app packaging and patching pipeline, and give your support teams the right access without the risk.
+
+Manual packaging, inconsistent patching, and zero rollback options are costing IT teams time they don't have. We'll walk through a modern, fully automated approach to endpoint management, covering Robopack's 40,000+ app library and wave-based patching, Tenant Manager's backup, drift detection, and approval workflows. Whether you're an enterprise admin or an MSP managing dozens of tenants, you'll walk away with a clear picture of what a safer, more automated endpoint stack looks like.
+ 
+
+Provide Feedback
+
+
+
+

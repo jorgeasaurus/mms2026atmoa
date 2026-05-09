@@ -10,6 +10,7 @@ What you will learn:
 * Utilize Custom Connectors in Power Platform for low-risk, low-code solutions that simplify AI entry.
 * Harness AI as a skill multiplier, enabling a focus on higher-priority tasks and strategic initiatives.
 * Discover practical strategies for integrating agentic AI to maximize efficiency and productivity.
+Provide Feedback
 
 Speakers  
 

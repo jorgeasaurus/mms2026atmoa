@@ -1,0 +1,31 @@
+Session Title: 
+Hello Passkey, Bye Password: Phishing-Resistant MFA Made Simple
+
+  Description:
+Transition from traditional passwords to modern passwordless, phishing-resistant MFA with Windows Hello for Business (WHfB). Learn to configure and deploy WHfB alongside Microsoft Intune, ensuring centralized management and integration into endpoint and identity strategies. Understand the advantages of adopting this advanced authentication method while exploring best practices and prerequisites for effective implementation.
+
+What you will learn:
+ 
+* Understand the security and usability benefits of moving beyond passwords to phishing-resistant authentication. 
+* Master the management of WHfB in contemporary IT environments for enhanced security.
+* Explore the integration of WHfB within endpoint and identity management for a seamless Zero Trust approach.
+* Gain insights into best practices and prerequisites for configuring WHfB alongside Microsoft Intune.
+Provide Feedback
+
+Speakers  
+
+
+ [Jan Ketil Skanke](https://mms2026atmoa.sched.com/speaker/jan_ketil_skanke.27sn43j2)
+MVP Security, Principal Cloud Architect, COO, CloudWay
+
+
+
+
+ [Lee Schlipphak](https://mms2026atmoa.sched.com/speaker/lee.schlipphak)
+Consultant, SVA System Vertrieb Alexander GmbH
+I am Lee Schlipphak, Consultant and System Engineer with a focus on Microsoft Intune, Entra ID, Defender XDR, as well as topics related to Identity and Endpoint Security.
+
+In my daily work, I help my clients develop and successfully implement tailored IT solutions.
+In addition to my professional activities, I am actively involved in the Microsoft Intune and Windows communities. I regularly share my knowledge and experiences on LinkedIn to inspire others and foster exchange within the community...  [Read More ](https://mms2026atmoa.sched.com/speaker/lee.schlipphak)
+
+

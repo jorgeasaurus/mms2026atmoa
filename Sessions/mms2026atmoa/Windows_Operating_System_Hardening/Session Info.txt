@@ -10,6 +10,7 @@ What you will learn:
 * Identify modern local and remote attack vectors and discover strategies to block them.
 * Reduce the workstation surface area by hardening browsers, services, network stacks, and more.
 * Explore server-specific hardening patterns for roles frequently neglected in security protocols.
+Provide Feedback
 
 Speakers  
 

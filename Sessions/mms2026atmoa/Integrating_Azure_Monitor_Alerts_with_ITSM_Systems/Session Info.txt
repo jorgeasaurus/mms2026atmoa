@@ -1,0 +1,26 @@
+Session Title: 
+Integrating Azure Monitor Alerts with ITSM Systems
+
+  Description:
+Overcome challenges in migrating to Azure Monitor by integrating it seamlessly with your ITSM and business processes. Discover how Azure Monitor can replace legacy server monitoring tools, offering significant cost savings. Explore integration options, especially for Microsoft Sentinel users, and learn to leverage built-in components to streamline your monitoring processes while enhancing operational efficiency.
+
+What you will learn:
+ 
+* Utilize Azure Monitor alert control points for effective bi-directional sync with your ITSM system. 
+* Modify existing GitHub Logic Apps to integrate with ServiceNow, Zendesk, JIRA, Freshdesk, ManageEngine, Autotask, BMC, and Ivanti.
+* Implement best practices for storing ITSM API secrets securely in Azure Key Vault, ensuring safe input and output management.
+* Access tools in GitHub, and learn how they fit into a comprehensive 14-step project plan to confidently achieve your integration objectives.
+Provide Feedback
+
+Speakers  
+
+
+ [John Joyner](https://mms2026atmoa.sched.com/speaker/john_joyner.27sn3wus)
+Microsoft MVP, Senior Director, Technology, Corsica Technologies
+John is Senior Director, Technology at Corsica Technologies, an MSP/MSSP providing NOC & SOC services to organizations around the world. He's a Microsoft Azure MVP and a Security MVP, and has been awarded Microsoft MVP for 18 years (2007-2026). An author of five books on operations...  [Read More ](https://mms2026atmoa.sched.com/speaker/john_joyner.27sn3wus)
+
+ [Brian Wren](https://mms2026atmoa.sched.com/speaker/brian_wren.27srmplv)
+Principal Content Developer & Monitoring Guru, Microsoft
+Brian Wren is a Principal Content Developer with Microsoft focusing on cloud management technologies including Azure Monitor. He has produced extensive documentation and training materials for System Center, most notably management pack authoring in Operations Manager, and is carrying...  [Read More ](https://mms2026atmoa.sched.com/speaker/brian_wren.27srmplv)
+
+

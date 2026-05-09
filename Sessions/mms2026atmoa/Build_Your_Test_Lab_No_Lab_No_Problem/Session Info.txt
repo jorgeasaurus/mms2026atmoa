@@ -10,6 +10,7 @@ What you will learn:
 * Leverage cloud solutions for flexible lab capabilities and scalability.
 * Automate the lab build process for quick and smooth testing scenarios.
 * Implement hydration and point-in-time techniques for effective testing management.
+Provide Feedback
 
 Speakers  
 

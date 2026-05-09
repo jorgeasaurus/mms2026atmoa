@@ -1,0 +1,26 @@
+Session Title: 
+The New OSDCloud Community Edition
+
+  OSDCloud has crossed two million cloud Windows deployments, and the Community Edition is just getting started. New tools for the OSD Administrator will be released at this session -- including Hydra, a single-command deployment lab builder; OSDCloud Explorer, a new way to navigate and manage your environment from WinPE; and a profile-based WinPE Startup experience that makes boot-time configuration repeatable and portable. These additions are built directly from community feedback and designed to reduce the gap between a clean machine and a running OS. Come ready to be surprised -- the full reveal happens live in the room.
+
+What you will learnDiscover what's new in the OSDCloud Community Edition and how it changes your deployment workflow.Automate the full deployment workstation and boot image build process from a single command.Extend OSDCloud integration with the tools already in your environment.Run a complete OS deployment end-to-end using the latest OSDCloud capabilities.
+ [https://github.com/OSDeploy/mmsmoa26-osdcloud-community-edition](https://github.com/OSDeploy/mmsmoa26-osdcloud-community-edition)
+Provide Feedback
+
+Speakers  
+
+
+ [Michael Escamilla](https://mms2026atmoa.sched.com/speaker/michael.escamilla)
+Customer Engineer, Patch My PC
+I am a Customer Engineer at Patch My PC helping customers secure their environments by ensuring their third-part applications are patched. I have spent my career working heavily within Microsoft Intune and Configuration Manager focusing on OS Deployment and Application Deployment...  [Read More ](https://mms2026atmoa.sched.com/speaker/michael.escamilla)
+
+ [David Segura](https://mms2026atmoa.sched.com/speaker/david_segura.27tenlxt)
+Senior Software Engineer, Recast Software
+I've just started at Recast Software working on OSDCloud as a Senior Software Engineer.
+While I am a Microsoft MVP in PowerShell, all of my community content is focused Windows OS Deployment.
+I'm most well known for OSDCloud, the OSD PowerShell Module, and OSDBuilder.
+
+
+...  [Read More ](https://mms2026atmoa.sched.com/speaker/david_segura.27tenlxt)
+
+

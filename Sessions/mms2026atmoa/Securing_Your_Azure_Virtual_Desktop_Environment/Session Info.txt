@@ -1,0 +1,29 @@
+Session Title: 
+Securing Your Azure Virtual Desktop Environment
+
+  Description:
+A robust security posture is essential for Azure resources, including Azure Virtual Desktop (AVD). Learn the importance of securing AVD and explore various tools and features offered by Azure to implement effective security measures. Understand best practices for safeguarding your AVD environment while identifying common pitfalls that can jeopardize security efforts.
+
+What you will learn:
+ 
+* Understand the critical reasons for securing Azure Virtual Desktop. 
+* Identify the tools and features provided by Azure to enhance AVD security.
+* Learn best practices for appropriately securing your AVD environment.
+* Discover common pitfalls and 'gotchas' when implementing AVD security.
+Provide Feedback
+
+Speakers  
+
+
+ [Chris Cavazos](https://mms2026atmoa.sched.com/speaker/chris_cavazos.27to6pmu)
+Microsoft MVP, Principal Consultant/Practice Technical Lead, Quisitive
+
+
+
+
+ [Adam Nichols](https://mms2026atmoa.sched.com/speaker/adam_nichols.29bhu3ne)
+Senior Product Manager CAT/CxE, Microsoft
+
+
+
+

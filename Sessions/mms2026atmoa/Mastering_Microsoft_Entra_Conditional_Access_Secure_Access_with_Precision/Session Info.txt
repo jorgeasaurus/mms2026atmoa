@@ -10,6 +10,7 @@ What you will learn:
 * Design and implement Conditional Access policies based on conditions such as user risk, device state, location, and application sensitivity.
 * Evaluate and optimize policy effectiveness to strike a balance between security and user productivity across various organizational scenarios.
 * Discover best practices for aligning Conditional Access strategies with organizational goals to enhance security posture while supporting user needs.
+Provide Feedback
 
 Speakers  
 

@@ -1,0 +1,26 @@
+Session Title: 
+Cloudy with a Chance of Infrastructure
+
+  Description:
+When moving to the cloud, the ‘Re’s often get mentioned. &nbsp;Re-home, Rebuild, Redesign, and Retire. &nbsp;Unfortunately, the most common scenario is the famous “Lift and Shift” (or Re-home) where resources are simply relocated as-is using migration tools like Azure Migrate or other 3rd party solutions. &nbsp;For some systems this is the only viable option, but it’s almost never the perfect option. &nbsp;In this session, we focus on Redesign and evaluate how to take a legacy system and refactor it for cloud native offerings from the ground up. &nbsp;We’ll start with the foundations: networking, landing zones, and gasp DNS. &nbsp;We’ll work up from there discussing database, compute, containers, and security options. &nbsp;We’ll also talk a little bit about BC/DR and dispel some common misconceptions about how failover in Azure really works. 
+
+What you will learn:
+ 
+* What Azure Services are the functional equivalents of legacy systems &nbsp;
+* When to choose one service over another &nbsp;
+* How not to have issues with DNS &nbsp;
+* How to recover from an outage or design a proper resilient system 
+Provide Feedback
+
+Speakers  
+
+
+ [Donnie Taylor](https://mms2026atmoa.sched.com/speaker/donnie_taylor.27sdm6lt)
+Microsoft MVP, Architect, GM
+Donnie is an IT architect and leader with 25+ years in enterprise systems management and automation. He has led multiple systems-management user groups and delivered 400+ conference sessions and workshops. A eight-time Microsoft MVP (Cloud and Datacenter Management, Azure, PowerShell...  [Read More ](https://mms2026atmoa.sched.com/speaker/donnie_taylor.27sdm6lt)
+
+ [Scott Corio](https://mms2026atmoa.sched.com/speaker/scott_corio.27sdm7bd)
+Microsoft MVP, Enterprise Cloud Architect, MMS Staff
+Boasting over 20 years in IT, Scott is not only an esteemed Enterprise Cloud Architect for a major healthcare giant, but he's also a Microsoft MVP in the Azure category. With a diverse portfolio spanning healthcare, non-profit, telecommunications, retail, and travel sectors, his expertise...  [Read More ](https://mms2026atmoa.sched.com/speaker/scott_corio.27sdm7bd)
+
+

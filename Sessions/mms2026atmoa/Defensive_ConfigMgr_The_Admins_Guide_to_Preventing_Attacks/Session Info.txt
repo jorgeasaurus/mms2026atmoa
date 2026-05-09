@@ -1,0 +1,30 @@
+Session Title: 
+Defensive ConfigMgr: The Admin's Guide to Preventing Attacks
+
+  Description:
+ConfigMgr is often a primary target for adversaries due to its capability to execute arbitrary programs on client devices. This session reveals common misconfigurations within ConfigMgr that attackers exploit, while providing step-by-step guidance to remediate these vulnerabilities. Learn how to secure your system effectively, reduce security risks, and ensure your ConfigMgr deployment is robust, reducing the likelihood of breaches.
+
+What you will learn:
+ 
+* Gain insight into commonly abused ConfigMgr misconfigurations that pose security risks. 
+* Watch demonstrations of attacks targeting ConfigMgr servers and clients.
+* Receive step-by-step guidance to remediate vulnerabilities in ConfigMgr.
+* Learn strategies to secure your ConfigMgr deployment, minimizing potential security breaches.
+Provide Feedback
+
+Speakers  
+
+
+ [Tom Degreef](https://mms2026atmoa.sched.com/speaker/tom_degreef.1xqbm359)
+Senior Consultant, OSCC
+Tom has been a Configmgr consultant for several years and has been a Microsoft Support Escalation Engineer for over 2 years. Tom became an independent Configmgr Consultant again and delivers consultancy for just about anything that is EMS or Systems Management related. The focus has...  [Read More ](https://mms2026atmoa.sched.com/speaker/tom_degreef.1xqbm359)
+
+ [Kim Oppalfens](https://mms2026atmoa.sched.com/speaker/kim_oppalfens.27sn3ymy)
+Microsoft MVP, Senior Consultant, OSCC
+Kim Oppalfens was awarded as an MVP 1st of April 2005, which makes him one of a couple of ConfigMgr April fool's MVP's. Kim is a self-proclaimed quiet, shy guy and overall nice guy, although part of that statement is currently under stress because of the evil influence of certain...  [Read More ](https://mms2026atmoa.sched.com/speaker/kim_oppalfens.27sn3ymy)
+
+ [Chris Thompson](https://mms2026atmoa.sched.com/speaker/chris_thompson.27sn42aa)
+Principal Consultant, SpecterOps
+Chris is a red team operator and BloodHound Product Architect at SpecterOps, where he conducts adversary simulation and penetration testing engagements, security research, tool development, and training. He is the primary author of SharpSCCM and Maestro, open-source tools for te...  [Read More ](https://mms2026atmoa.sched.com/speaker/chris_thompson.27sn42aa)
+
+

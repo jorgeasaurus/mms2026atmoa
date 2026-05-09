@@ -1,0 +1,26 @@
+Session Title: 
+Home Assistant: Latest Enhancements for Automation
+
+  Description:
+Home Assistant evolves rapidly, with new features and improvements that significantly impact your home automation setup. Gain insights into recent enhancements, including updated integration workflows and interface upgrades, while examining how these additions affect device management and automation processes. This session offers valuable knowledge for both newcomers and experienced users looking to optimize their home automation system.
+
+What you will learn:
+ 
+* Discover new features and integrations released over the past year, enhancing your automation setup. 
+* Explore interface and dashboard improvements that streamline user experience and functionality.
+* Receive practical examples demonstrating how recent changes enhance home automation operations.
+* Learn about new protocol support and its impact on existing installations for improved device management.
+Provide Feedback
+
+Speakers  
+
+
+ [Tom Degreef](https://mms2026atmoa.sched.com/speaker/tom_degreef.1xqbm359)
+Senior Consultant, OSCC
+Tom has been a Configmgr consultant for several years and has been a Microsoft Support Escalation Engineer for over 2 years. Tom became an independent Configmgr Consultant again and delivers consultancy for just about anything that is EMS or Systems Management related. The focus has...  [Read More ](https://mms2026atmoa.sched.com/speaker/tom_degreef.1xqbm359)
+
+ [Matt Zaske](https://mms2026atmoa.sched.com/speaker/matt_zaske.27sn4e6k)
+Developer/Fleet Admin, University of Minnesota
+Matt is an IT professional with over 25 years of experience who brings a unique blend of technical expertise and creative flair to the table. His background bridges several IT disciplines including endpoint management, server administration (Linux and Windows), and applications architecture...  [Read More ](https://mms2026atmoa.sched.com/speaker/matt_zaske.27sn4e6k)
+
+

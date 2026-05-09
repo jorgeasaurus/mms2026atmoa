@@ -1,0 +1,26 @@
+Session Title: 
+Super-Speed: Enhance OS Deployment Performance
+
+  Description:
+Gain insights from Johan Arwidmark and Mikael Nystrom on accelerating OS deployment processes through expert tips and tricks. Discover techniques to optimize images, streamline driver and application deployments, and enhance infrastructure performance. Learn practical methods for peer-to-peer (P2P) distribution and effective image management, ensuring faster deployments across your organization. Leave with actionable strategies to elevate your deployment efficiency.
+
+What you will learn:
+ 
+* Learn strategies to significantly improve OS deployment performance and efficiency. 
+* Explore best practices for optimizing driver and application deployments during OS installations.
+* Understand how to build a robust infrastructure for enhancing imaging and large deployments.
+* Implement peer-to-peer (P2P) techniques for quicker and more efficient software distribution.
+Provide Feedback
+
+Speakers  
+
+
+ [Johan Arwidmark](https://mms2026atmoa.sched.com/speaker/arwidmark)
+Technical Fellow, ViaMonstra Online Academy
+Johan Arwidmark is a Technical Fellow with ViaMonstra Online Academy and Mirolus, specializing in Systems Management and Enterprise Windows Deployment Solutions. Johan also speaks at several conferences each year, including MMS and Ignite events around the world. He is actively involved...  [Read More ](https://mms2026atmoa.sched.com/speaker/arwidmark)
+
+ [Mikael Nyström](https://mms2026atmoa.sched.com/speaker/mikael_nystrom.27sn47jl)
+Microsoft MVP, Geek, Truesec
+I am veteran of the industry and I can honestly tell you that I am not your regular consultant. I change wrong into right and explain the “why” behind it to make sure that you, my client, understands, trust, and buys-in to the path that we continue on. As a long time Microsoft...  [Read More ](https://mms2026atmoa.sched.com/speaker/mikael_nystrom.27sn47jl)
+
+

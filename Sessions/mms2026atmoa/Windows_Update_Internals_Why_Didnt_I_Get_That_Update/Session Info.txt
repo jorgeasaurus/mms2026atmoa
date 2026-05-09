@@ -1,0 +1,26 @@
+Session Title: 
+Windows Update Internals: Why Didn't I Get That Update?
+
+  Description:
+Understand the intricacies of Windows Update to troubleshoot why certain updates fail to appear for devices. Dive into the evaluation of metadata, applicability, and supersedence to grasp how Windows Update determines which updates to deliver. Learn how Intune, Autopatch, WSUS, and ConfigMgr influence or modify this decision-making process, providing insights into effective update management for enhanced device performance.
+
+What you will learn:
+ 
+* Trace the update flow from the Microsoft Update catalog to Windows devices for better understanding. 
+* Employ practical heuristics to diagnose instances of missing or 'not applicable' updates effectively.
+* Learn how WSUS and ConfigMgr alter native Windows Update behavior for optimal device performance.
+* Discover how Intune and Autopatch enhance and sometimes override Windows Update logic.
+Provide Feedback
+
+Speakers  
+
+
+ [Bryan Dam](https://mms2026atmoa.sched.com/speaker/bryan_dam.28jno8u4)
+Patch Lover Extraordinaire - Patch My PC, Patch My PC
+I am a lover of all patches for Patch My PC. I've spent over 15 years as a system administrator, most recently at a large Midwest supermarket using Configuration Manager. I'm active in the online support communities and most days you'll find me on the SCCM subreddit or the WinAdmin's...  [Read More ](https://mms2026atmoa.sched.com/speaker/bryan_dam.28jno8u4)
+
+ [Thad Martin](https://mms2026atmoa.sched.com/speaker/thaddeusmartin)
+Principal Product Manager, Microsoft
+Thad Martin is a Principal Product Manager at Microsoft with over 20 years of experience, including more than a decade driving the architecture and evolution of Windows Update. His work spans update catalog services, client scan logic, and end‑to‑end servicing workflows for connected...  [Read More ](https://mms2026atmoa.sched.com/speaker/thaddeusmartin)
+
+

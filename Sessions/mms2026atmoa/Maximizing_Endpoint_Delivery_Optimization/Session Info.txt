@@ -1,0 +1,26 @@
+Session Title: 
+Maximizing Endpoint Delivery Optimization
+
+  Description:
+Dive into the latest strategies and recommendations for leveraging Delivery Optimization in Intune and beyond. Discover recent changes, effective configuration tips, and community-driven tools and scripts. This comprehensive session equips endpoint admins with essential knowledge to streamline modern content delivery efforts.
+
+What you will learn:
+ 
+* Stay updated on the latest advancements in Modern Content Delivery techniques. 
+* Master the optimal configuration methods for Windows Delivery Optimization.
+* Acquire valuable tips and tricks to enhance your delivery processes.
+* Utilize community tools and scripts for effective endpoint management.
+Provide Feedback
+
+Speakers  
+
+
+ [Mattias Benninge](https://mms2026atmoa.sched.com/speaker/mattiasb)
+Principal Engineer, 2Pint Software
+Mattias has worked in the Endpoint Management space since ConfigMgr was called SMS and IOS was something only network people knew about. Currently he works as a Principal Engineer at 2Pint Software but during his career he has always had the goal to simplify and automate as much as...  [Read More ](https://mms2026atmoa.sched.com/speaker/mattiasb)
+
+ [Andreas Hammarskjöld](https://mms2026atmoa.sched.com/speaker/andreas_hammarskjld.27w40b37)
+Cat herder, 2Pint Software
+First network was a home Network when I was 11 with our neighbours, running Novell Netware. Since the release of the SMS 2003 OS Deployment Feature Pack, Andreas has developed significant experience implementing 100% automated deployment solutions with ConfigMgr. Now it’s all about...  [Read More ](https://mms2026atmoa.sched.com/speaker/andreas_hammarskjld.27w40b37)
+
+

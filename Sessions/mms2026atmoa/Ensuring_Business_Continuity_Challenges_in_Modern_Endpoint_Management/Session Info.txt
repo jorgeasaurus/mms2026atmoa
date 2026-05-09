@@ -1,0 +1,26 @@
+Session Title: 
+Ensuring Business Continuity: Challenges in Modern Endpoint Management
+
+  Description:
+A robust and scalable strategy for endpoint recovery is essential for organizations to minimize downtime and streamline manual interventions. Examine the critical role of endpoint recovery and business continuity in combating cyber threats while adhering to regulatory standards. Uncover modern strategies and best practices to effectively recover Windows-based devices amidst evolving challenges in today’s digital landscape.
+
+What you will learn:
+ 
+* Integrate endpoint devices into overall business recovery plans for enhanced resilience. 
+* Align endpoint disaster recovery efforts with business continuity and regulatory compliance.
+* Discover tailored disaster recovery strategies specific to ‘modern’ Windows endpoints.
+* Explore the options and challenges associated with device recovery in modern endpoint management.
+Provide Feedback
+
+Speakers  
+
+
+ [Mike Terrill](https://mms2026atmoa.sched.com/speaker/mike_terrill.27sn475c)
+Principal Engineer, Microsoft MVP, 2Pint Software
+Mike is a Principal Engineer at 2Pint Software, specializing in the design and implementation of operating system deployments, operating system upgrades, peer-to-peer, bandwidth management, and PXE solutions as they related to various systems management platforms (Configuration Manager/Intune...  [Read More ](https://mms2026atmoa.sched.com/speaker/mike_terrill.27sn475c)
+
+ [Carl Johan Hederoth](https://mms2026atmoa.sched.com/speaker/carlh3)
+Product and Software Engineering, 2Pint Software
+Carl Johan Hederoth works in Software Engineering and Product at 2Pint Software. He’s been in software engineering since 2000. Over the years, he’s worked across product development, software, databases, and large-scale platforms—surviving framework trends, rewrites, and more...  [Read More ](https://mms2026atmoa.sched.com/speaker/carlh3)
+
+

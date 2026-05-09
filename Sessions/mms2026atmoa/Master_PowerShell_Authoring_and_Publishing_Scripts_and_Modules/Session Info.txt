@@ -1,7 +1,17 @@
 Session Title: 
 Master PowerShell Authoring and Publishing Scripts and Modules
 
-  Description:
+  Session Repository
+ [https://github.com/OSDeploy/mmsmoa26-powershell-scripts-modules](https://github.com/OSDeploy/mmsmoa26-powershell-scripts-modules)
+The session repository includes all the content from the MMSMOA Session for review.
+
+Skills Repository
+ [https://github.com/OSDeploy/PSNewModuleSkill](https://github.com/OSDeploy/PSNewModuleSkill)
+This skills repository includes the " [new-powershell-module](https://github.com/OSDeploy/PSNewModuleSkill/tree/main/.github/skills/new-powershell-module)" and the " [publish-powershell-script](https://github.com/OSDeploy/PSNewModuleSkill/tree/main/.github/skills/publish-powershell-script)" skill to help you get started writing a PowerShell Module or Script to publish to PowerShell Gallery.
+
+The Session and the Skills Repository will remain available at these links until May 15 before being archived. If you need access after this date, please contact David or Travis and we will be able to get you a copy.
+
+Description:
 Develop robust and reusable PowerShell scripts and modules using VS Code. Gain insights into script structure, module design, error handling, and documentation standards. Learn to utilize GitHub Repositories for version control, enabling collaboration and automation of workflows through GitHub Actions. Author Intune Remediations and Platform Scripts while mastering safe deployment practices, ensuring that your scripts are well-structured and ready for maintenance and publication.
 
 What you will learn:
@@ -10,6 +20,7 @@ What you will learn:
 * Create Intune Remediations and Platform Scripts incorporating detection logic, remediation patterns, and robust error handling.
 * Utilize GitHub Repositories for version control and collaboration, automating testing and publishing processes with GitHub Actions.
 * Learn to publish and maintain modules, including versioning techniques and the self-publishing workflow for PowerShell Gallery.
+Provide Feedback
 
 Speakers  
 

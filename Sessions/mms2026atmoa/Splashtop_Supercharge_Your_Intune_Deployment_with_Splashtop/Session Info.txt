@@ -1,0 +1,21 @@
+Session Title: 
+Splashtop: Supercharge Your Intune Deployment with Splashtop
+
+  Description:
+
+Enhance your Microsoft Intune deployment with Splashtop to achieve secure and efficient remote access tailored for today's distributed workforce. Explore seamless integration techniques and learn best practices to facilitate remote support within managed environments. Discover strategies to minimize ticket resolution time and maximize IT efficiency while ensuring compliance and security standards are met.
+
+
+What you will learn:
+
+
+* Gain insights on how Splashtop extends Microsoft Intune capabilities. 
+* Learn strategies to reduce ticket resolution time and enhance IT operational efficiency.
+* Identify best practices for providing remote access and unattended support within managed environments.
+* Understand security considerations and compliance alignment within your Intune and Splashtop integration.Chance to win NCC-1701-D Lego Set!
+
+Provide Feedback
+
+
+
+

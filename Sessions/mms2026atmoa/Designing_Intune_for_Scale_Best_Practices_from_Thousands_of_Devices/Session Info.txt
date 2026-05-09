@@ -10,6 +10,7 @@ What you will learn:
 * Identify and avoid frequent policy and profile sprawl errors to maintain system integrity.
 * Establish an Intune infrastructure designed for seamless growth and adaptability.
 * Gain insights from real-world examples to prevent future administration challenges.
+Provide Feedback
 
 
 

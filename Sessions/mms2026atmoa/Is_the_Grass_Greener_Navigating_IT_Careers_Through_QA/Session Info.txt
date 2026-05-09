@@ -1,0 +1,27 @@
+Session Title: 
+Is the Grass Greener? Navigating IT Careers Through Q&A
+
+  Description:
+Engage in an interactive Q&A session with an HR representative, contractor, employee, and recruiter to explore diverse IT career paths. Gain insights into the advantages and disadvantages of consulting versus full-time roles, discover employer expectations, and discuss certification value. This candid dialogue equips attendees with the information needed to make informed decisions about their next career move.
+
+What you will learn:
+ 
+* Evaluate the pros and cons of contracting versus permanent employment in IT for effective career planning. 
+* Understand the key priorities of hiring managers and recruiters for technical candidates in today’s market.
+* Clarify the true impact of IT certifications on career progression and their relevance in the job market.
+* Receive practical strategies for resume building, networking, and successfully landing your next IT role.
+Provide Feedback
+
+Speakers  
+
+
+ [Garth Jones](https://mms2026atmoa.sched.com/speaker/garth_jones.27sny4p0)
+Senior Product Manager Endpoint Insights, Recast Software
+
+Garth Jones is a Senior Product Manager at Recast Software with deep roots in endpoint management, automation, and reporting. With decades of hands‑on experience spanning ConfigMgr (SCCM), Intune, and modern workplace solutions, Garth focuses on turning complex technical challenges into practical...  [Read More ](https://mms2026atmoa.sched.com/speaker/garth_jones.27sny4p0)
+
+ [Jim O'Neil](https://mms2026atmoa.sched.com/speaker/jim_oneil.28jia8vk)
+Customer Engineer, Patch My PC
+Customer Engineer with Patch My PC and former Twin Cities Systems Management User-Group (TCSMUG) official. A two-time MMS speaker, Jim focuses on automating Application Lifecycle Management and Endpoint Management. He is passionate about bridging the gap between complex infrastructure...  [Read More ](https://mms2026atmoa.sched.com/speaker/jim_oneil.28jia8vk)
+
+

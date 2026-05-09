@@ -1,0 +1,26 @@
+Session Title: 
+Hidden Secrets of the PowerShell Masters
+
+  Description:
+Delve into the hidden secrets of PowerShell mastery, focusing on advanced troubleshooting techniques, uncovering and utilizing hidden .NET methods, mastering classes, and optimizing event-driven processes. Transform your PowerShell capabilities to streamline efficiency and enhance the performance of your scripts through best practices and effective organization.
+
+What you will learn:
+ 
+* Discover methods to significantly enhance efficiency in your PowerShell scripts. 
+* Learn techniques for improving script organization and maintaining cleanliness.
+* Implement effective troubleshooting and debugging approaches to resolve issues.
+* Adopt performance optimization tips and established best practices for PowerShell.
+Provide Feedback
+
+Speakers  
+
+
+ [Nathan Ziehnert](https://mms2026atmoa.sched.com/speaker/nathan_ziehnert.27sdlp62)
+Microsoft MVP, Principal Engineer, 2Pint Software
+I dig Windows systems from consumer to enterprise, I'm in an eternal love affair with PowerShell and C#, and I also like to play in Azure. I have a blog... you can read my blog... the link is above (or below? who knows?!). You might also find me doing karaoke whenever the opportunity...  [Read More ](https://mms2026atmoa.sched.com/speaker/nathan_ziehnert.27sdlp62)
+
+ [Kevin Grossnicklaus](https://mms2026atmoa.sched.com/speaker/kvgros)
+President, ArchitectNow
+Kevin started developing software in 1985 at the age of 10, when his new Apple IIgs booted to a command prompt and he didn’t know what else to do with it. He went on to found ArchitectNow in 2008 after spending 11 years as the Chief Architect and Software Development Practice Leader...  [Read More ](https://mms2026atmoa.sched.com/speaker/kvgros)
+
+

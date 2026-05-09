@@ -1,0 +1,27 @@
+Session Title: 
+Zero to Certificates in 5 Minutes with Cloud PKI for Microsoft Intune
+
+  Description:
+Streamline certificate management in enterprise environments using Microsoft Cloud PKI with Intune. Explore best practices, deployment strategies, and key features that enhance IT operations. Live demos will illustrate efficient configuration and management techniques, while also addressing limitations for effective planning. Gain actionable insights, whether new to Cloud PKI or refining existing configurations, to bolster security and operational efficiency in your organization.
+
+What you will learn:
+ 
+* Design and deploy Cloud PKI with proven security and configuration best practices. 
+* Understand where Cloud PKI fits and identify its limitations for effective planning.
+* Acquire practical, actionable skills through live demonstrations from initial configuration to deployment.
+* Boost your organization's security and operational efficiency with streamlined certificate management techniques.
+Provide Feedback
+
+Speakers  
+
+
+ [Richard Hicks](https://mms2026atmoa.sched.com/speaker/rich295)
+President, Richard M. Hicks Consulting, Inc.
+Richard Hicks is the founder and principal consultant at Richard M. Hicks Consulting, Inc. A Microsoft Most Valuable Professional (MVP) with more than 30 years of experience implementing secure remote access and public key infrastructure (PKI) solutions, he is a widely recognized...  [Read More ](https://mms2026atmoa.sched.com/speaker/rich295)
+
+ [Adam Gross](https://mms2026atmoa.sched.com/speaker/adam_gross.27so7u0l)
+Microsoft MVP, Co-Host of Intune.Training, A Square Dozen
+
+
+
+

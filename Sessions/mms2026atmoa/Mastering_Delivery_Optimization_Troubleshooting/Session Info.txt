@@ -1,0 +1,30 @@
+Session Title: 
+Mastering Delivery Optimization Troubleshooting
+
+  Description:
+Troubleshoot Delivery Optimization effectively when issues arise, whether due to a new Zero Trust initiative or configuration errors. Identify the right logs, learn to interpret them accurately, and apply remediation techniques. Gain insights into essential tools, tips, and tricks for efficient problem-solving, ensuring a smoother operations experience with Delivery Optimization.
+
+What you will learn:
+ 
+* Dive deep into troubleshooting Delivery Optimization to identify and resolve issues efficiently. 
+* Discover how to locate and interpret logs relevant to Delivery Optimization troubleshooting.
+* Explore essential tools and gain valuable tips and tricks for effective troubleshooting.
+* Learn practical remediation strategies to overcome common Delivery Optimization challenges.
+Provide Feedback
+
+Speakers  
+
+
+ [Andy Rivas](https://mms2026atmoa.sched.com/speaker/andy.rivas1)
+Principal Product Manager, Microsoft
+Andy has spent the past five years building Microsoft Connected Cache software and services to enable reliable and cost-efficient delivery of content to Microsoft customers. If you’re an Enterprise admin, ISP, NSP, or IX, talk to Andy about how you can save internet bandwidth and...  [Read More ](https://mms2026atmoa.sched.com/speaker/andy.rivas1)
+
+ [Mattias Benninge](https://mms2026atmoa.sched.com/speaker/mattiasb)
+Principal Engineer, 2Pint Software
+Mattias has worked in the Endpoint Management space since ConfigMgr was called SMS and IOS was something only network people knew about. Currently he works as a Principal Engineer at 2Pint Software but during his career he has always had the goal to simplify and automate as much as...  [Read More ](https://mms2026atmoa.sched.com/speaker/mattiasb)
+
+ [Andreas Hammarskjöld](https://mms2026atmoa.sched.com/speaker/andreas_hammarskjld.27w40b37)
+Cat herder, 2Pint Software
+First network was a home Network when I was 11 with our neighbours, running Novell Netware. Since the release of the SMS 2003 OS Deployment Feature Pack, Andreas has developed significant experience implementing 100% automated deployment solutions with ConfigMgr. Now it’s all about...  [Read More ](https://mms2026atmoa.sched.com/speaker/andreas_hammarskjld.27w40b37)
+
+

@@ -1,0 +1,26 @@
+Session Title: 
+One Console to Manage Them All
+
+  Description:
+Azure's diverse management services, including Azure Monitor, Defender for Cloud, and Update Manager, often require navigating multiple windows and varied billing processes. Operations Center addresses these challenges by consolidating management tools into a single portal, featuring streamlined onboarding and enhanced functionality through Azure agents. Gain insights into the current capabilities of Operations Center and its future direction within Azure management.
+
+What you will learn:
+ 
+* Operations Center simplifies the management experience within Azure, providing a cohesive platform. 
+* Experience a consolidated onboarding process that eases VM management directly from one interface.
+* Leverage new Azure Copilot agents to enhance your overall management capabilities.
+* Discover the future landscape of Azure management and how Operations Center fits into it.
+Provide Feedback
+
+Speakers  
+
+
+ [Brian Wren](https://mms2026atmoa.sched.com/speaker/brian_wren.27srmplv)
+Principal Content Developer & Monitoring Guru, Microsoft
+Brian Wren is a Principal Content Developer with Microsoft focusing on cloud management technologies including Azure Monitor. He has produced extensive documentation and training materials for System Center, most notably management pack authoring in Operations Manager, and is carrying...  [Read More ](https://mms2026atmoa.sched.com/speaker/brian_wren.27srmplv)
+
+ [Kristopher Turner](https://mms2026atmoa.sched.com/speaker/kristopher_turner.28jia95x)
+Microsoft MVP, Hybrid Cloud Solutions
+Kristopher Turner is a Microsoft MVP in Azure, a Microsoft Certified Trainer (MCT), and a Product Technology Architect at TierPoint, where he focuses on delivering innovative cloud and infrastructure solutions. With expertise spanning Azure Local, Azure Arc, Kubernetes, and disaster...  [Read More ](https://mms2026atmoa.sched.com/speaker/kristopher_turner.28jia95x)
+
+

@@ -1,0 +1,17 @@
+Session Title: 
+From ConfigMgr to Manager of Configs
+
+  Description:
+Reimagine server management from fine-grained configuration to a flexible approach that enables any server to run what it needs, regardless of location. Transitioning from on-prem to cloud can feel overwhelming due to legacy systems and persistent Group Policy Objects (GPOs). Gain insights on separating configuration from infrastructure, utilizing portable app artifacts, and adopting scalable management patterns that modernize system administration without replicating ConfigMgr.
+
+What you will learn:
+ 
+* Adopt a scalable management model that facilitates cloud adoption. Shift from server-centric to intent-driven patterns applicable across diverse environments. 
+* Modernize management without a direct replacement for ConfigMgr or GPOs. Identify what to retain, what to replace, and navigate transitions while maintaining operational integrity.
+* Understand the synergy of policy, configuration, artifacts, and automation, empowering teams to scale and modernize without overwhelming tool sprawl.
+* Gain practical techniques for making applications portable and efficient, paving the way for smoother cloud transitions and enhanced system management.
+Provide Feedback
+
+
+
+

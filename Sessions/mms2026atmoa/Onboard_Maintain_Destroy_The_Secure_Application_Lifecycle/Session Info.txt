@@ -10,6 +10,7 @@ What you will learn:
 * Ensure accountability by tracking application ownership, assigning business owners for every app to manage licensing, justification, and lifecycle decisions effectively.
 * Automate workstreams for packaging and publishing to ConfigMgr/Intune, bridging security and operations to manage vulnerabilities and updates throughout the application lifecycle.
 * Utilize a provided checklist for planning application end-of-life, leveraging automated tools to identify and retire 'zombie apps,' thereby minimizing your attack surface.
+Provide Feedback
 
 Speakers  
 

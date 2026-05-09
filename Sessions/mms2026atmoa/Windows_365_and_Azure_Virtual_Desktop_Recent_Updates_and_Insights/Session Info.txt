@@ -1,0 +1,35 @@
+Session Title: 
+Windows 365 and Azure Virtual Desktop: Recent Updates and Insights
+
+  Description:
+Discover the latest advancements in Windows 365 and Azure Virtual Desktop that transform virtual desktop design, deployment, and operations. Examine updates, including Windows App enhancements, AI-enabled Cloud PCs, and security improvements, grounded in real-world customer deployments. Gain practical insights into design patterns that succeed, common pitfalls to avoid, and proven strategies for building reliable, cost-effective virtual desktop environments.
+
+What you will learn:
+ 
+* Understand the significant recent updates affecting Windows 365 and Azure Virtual Desktop architecture. 
+* Learn tactical design patterns and architecture considerations essential for successful virtual desktop deployments.
+* Identify and avoid common pitfalls encountered in production environments for smoother operations.
+* Receive best practices on identity, image management, profiles, autoscaling, and operational efficiency.
+Provide Feedback
+
+Speakers  
+
+
+ [Travis Roberts](https://mms2026atmoa.sched.com/speaker/travis_roberts.27tenm80)
+MVP, MCT, Sr Technical Trainer @ Nerdio, Blogger and Enthusiast, Ciraltos llc
+
+
+
+
+ [Chris Cavazos](https://mms2026atmoa.sched.com/speaker/chris_cavazos.27to6pmu)
+Microsoft MVP, Principal Consultant/Practice Technical Lead, Quisitive
+
+
+
+
+ [Adam Nichols](https://mms2026atmoa.sched.com/speaker/adam_nichols.29bhu3ne)
+Senior Product Manager CAT/CxE, Microsoft
+
+
+
+

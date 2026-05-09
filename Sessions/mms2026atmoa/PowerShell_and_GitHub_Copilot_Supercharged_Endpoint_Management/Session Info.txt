@@ -10,6 +10,7 @@ What you will learn:
 * Gain confidence in managing OEM devices effectively using PowerShell techniques tailored for your needs.
 * Utilize GitHub Copilot to create your first scripts, streamlining the development process significantly.
 * Learn to adapt community scripts to make them your own, embracing the concept of 'Stealing with Pride.'
+Provide Feedback
 
 Speakers  
 

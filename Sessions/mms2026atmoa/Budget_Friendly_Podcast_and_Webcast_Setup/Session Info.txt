@@ -1,0 +1,35 @@
+Session Title: 
+Budget-Friendly Podcast and Webcast Setup
+
+   [https://github.com/OSDeploy/mmsmoa26-podcast-webcast](https://github.com/OSDeploy/mmsmoa26-podcast-webcast)
+
+Description:
+Create a professional podcast and webcast setup without overspending. Learn to select cost-effective cameras, microphones, lighting, and software while optimizing your environment for exceptional audio and video quality. Discover essential techniques for acoustics and setup to achieve the best results within any budget. Equip yourself with a compact, portable solution ideal for taking your production on the road to conferences and events.
+
+What you will learn:
+ 
+* Select affordable, quality equipment for audio, video, and lighting tailored to your budget tier and content goals. 
+* Optimize your recording space using practical treatment techniques to maximize audio and video quality without breaking the bank.
+* Design a portable podcast and webcast setup for seamless transport to events and conferences.
+* Access tips for expanding your podcasting capabilities while maintaining budget-friendly practices.
+Provide Feedback
+
+Speakers  
+
+
+ [David Segura](https://mms2026atmoa.sched.com/speaker/david_segura.27tenlxt)
+Senior Software Engineer, Recast Software
+I've just started at Recast Software working on OSDCloud as a Senior Software Engineer.
+While I am a Microsoft MVP in PowerShell, all of my community content is focused Windows OS Deployment.
+I'm most well known for OSDCloud, the OSD PowerShell Module, and OSDBuilder.
+
+
+...  [Read More ](https://mms2026atmoa.sched.com/speaker/david_segura.27tenlxt)
+
+ [Travis Roberts](https://mms2026atmoa.sched.com/speaker/travis_roberts.27tenm80)
+MVP, MCT, Sr Technical Trainer @ Nerdio, Blogger and Enthusiast, Ciraltos llc
+
+
+
+
+

@@ -1,0 +1,28 @@
+Session Title: 
+Day One Essentials for Microsoft Intune Success
+
+  Description:
+Organizations often deploy Microsoft Intune without laying the groundwork, leading to complications later. Focus on pivotal day-one decisions essential for both new and existing tenants. Learn critical configurations that should be prioritized, common pitfalls to avoid, and how to effectively devise a practical checklist for immediate application, ensuring a smooth Intune implementation from the outset.
+
+What you will learn:
+ 
+* Gain insights into the essential Intune configurations needed on day one for successful deployment. 
+* Identify and sidestep common mistakes that can hinder early-stage Intune setups.
+* Utilize a practical day-one checklist for efficient configuration management.
+* Leave with a clear, prioritized approach for immediate application in your Intune strategy.
+Provide Feedback
+
+Speakers  
+
+
+ [Jan Ketil Skanke](https://mms2026atmoa.sched.com/speaker/jan_ketil_skanke.27sn43j2)
+MVP Security, Principal Cloud Architect, COO, CloudWay
+
+
+
+
+ [Sandy Zeng](https://mms2026atmoa.sched.com/speaker/sandy_zeng.27sn4def)
+Senior Cloud Architect at CloudWay | Microsoft MVP, CloudWay
+Sandy is an experienced Information Technology Specialist for over 15 years. Skilled in Microsoft Endpoint Manager (ConfigMgr and Intune), Windows, and security. Sandy's interests are mostly related to Microsoft Technologies, she is passionate about learning new skill sets to improve...  [Read More ](https://mms2026atmoa.sched.com/speaker/sandy_zeng.27sn4def)
+
+

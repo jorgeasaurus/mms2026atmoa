@@ -1,0 +1,28 @@
+Session Title: 
+Mastering Entra ID Privileged Identity Management: Essential Strategies
+
+  Description:
+Privileged Identity Management (PIM) in Microsoft Entra ID is crucial for securing administrative access and mitigating risks. Gain insights into PIM's role, its significance, and effective implementation strategies. Topics include setup, activation workflows, governance best practices, and advanced features such as access reviews, custom roles, and privileged access groups. Discover methods for enforcing step-up authentication and reauthentication for sensitive operations to ensure organizational compliance and security.
+
+What you will learn:
+ 
+* Understand the vital role of PIM in enhancing identity security within your organization. 
+* Implement and manage PIM effectively to streamline administrative access and minimize risks.
+* Apply governance strategies and best practices to optimize your PIM implementation.
+* Learn how to enforce step-up authentication and reauthentication for critical operations to bolster security.
+Provide Feedback
+
+Speakers  
+
+
+ [Maurice Daly](https://mms2026atmoa.sched.com/speaker/maurice.daly)
+Microsoft MVP, Senior Security Architect, Patch My PC
+Maurice has been working in the IT industry for the past 25 years. His focus is on the areas of Windows deployment, device management, Entra ID security, and secure productivity. Maurice has been an MCSE since 2008 and received his first MVP award in Enterprise Mobility (now Security...  [Read More ](https://mms2026atmoa.sched.com/speaker/maurice.daly)
+
+ [Jan Ketil Skanke](https://mms2026atmoa.sched.com/speaker/jan_ketil_skanke.27sn43j2)
+MVP Security, Principal Cloud Architect, COO, CloudWay
+
+
+
+
+

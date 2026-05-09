@@ -1,0 +1,17 @@
+Session Title: 
+IntuneStack: CI/CD PowerShell Workflow for Intune Management
+
+  Description:
+Streamline Intune management by transforming policy management into a CI/CD process using PowerShell and GitHub Actions. By treating Dev, Test, and Prod as deployment stages driven by success criteria, establish reliable pipelines that enhance consistency and trust in your Intune environment. Achieve predictable, auditable, and safer policy changes without requiring a complete overhaul of your existing automation practices.
+
+What you will learn:
+ 
+* Adopt group-based segmentation to manage Dev, Test, and Prod as deployment stages rather than separate environments. 
+* Gain a structured approach to packaging Intune policy changes into trustworthy, validated artifacts for consistent promotion.
+* Establish guardrails with validation, success criteria, and promotion gates to ensure that Intune changes are predictable and auditable.
+* Integrate existing PowerShell automation with a CI/CD mindset, improving the management process at scale.
+Provide Feedback
+
+
+
+

@@ -10,6 +10,7 @@ What you will learn:
 * Gain a deep understanding of Task Sequence operations and their complexities.
 * Identify automation ideas to maximize flexibility and streamline processes.
 * Discover creative applications of Task Sequences that extend beyond OSD.
+Provide Feedback
 
 Speakers  
 

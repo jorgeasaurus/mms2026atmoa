@@ -1,0 +1,26 @@
+Session Title: 
+Optimize Your Azure Monitor Costs: Efficient Data Management
+
+  Description:
+Minimize monitoring expenses in Azure by implementing effective strategies for data collection and retention. Explore various filtering techniques to eliminate unnecessary data and evaluate storage tiers within your Log Analytics workspace. Receive practical recommendations on data types, their storage destinations, and functionalities to achieve optimal efficiency without overspending, ensuring all essential monitoring capabilities are maintained.
+
+What you will learn:
+ 
+* Discover filtering techniques in Azure Monitor ranging from basic to advanced, enhancing your cost efficiency. 
+* Understand how different storage tiers in a Log Analytics workspace impact functionality and costs.
+* Receive tailored recommendations on data filtering and appropriate storage destinations for various data types.
+* Learn practical strategies to maintain essential monitoring capabilities while controlling Azure costs effectively.
+Provide Feedback
+
+Speakers  
+
+
+ [Donnie Taylor](https://mms2026atmoa.sched.com/speaker/donnie_taylor.27sdm6lt)
+Microsoft MVP, Architect, GM
+Donnie is an IT architect and leader with 25+ years in enterprise systems management and automation. He has led multiple systems-management user groups and delivered 400+ conference sessions and workshops. A eight-time Microsoft MVP (Cloud and Datacenter Management, Azure, PowerShell...  [Read More ](https://mms2026atmoa.sched.com/speaker/donnie_taylor.27sdm6lt)
+
+ [Brian Wren](https://mms2026atmoa.sched.com/speaker/brian_wren.27srmplv)
+Principal Content Developer & Monitoring Guru, Microsoft
+Brian Wren is a Principal Content Developer with Microsoft focusing on cloud management technologies including Azure Monitor. He has produced extensive documentation and training materials for System Center, most notably management pack authoring in Operations Manager, and is carrying...  [Read More ](https://mms2026atmoa.sched.com/speaker/brian_wren.27srmplv)
+
+

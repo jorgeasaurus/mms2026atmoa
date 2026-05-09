@@ -1,0 +1,27 @@
+Session Title: 
+The Wizards of MMS: Behind the Curtain
+
+  Description:
+Discover the inner workings of MMS and its automation framework. Understand how Azure services power the backend processes, including email delivery systems and Discord role assignments. Gain insights into choosing appropriate Azure services for similar tasks and learn to make informed decisions when faced with comparable options. This session demystifies the technical aspects that keep MMS running smoothly.
+
+What you will learn:
+ 
+* Explore how Azure services streamline and automate key MMS functionalities. 
+* Identify which Azure services can be leveraged for tasks similar to those in MMS.
+* Learn criteria for selecting the right Azure service among similar options.
+* Gain confidence in utilizing Azure's capabilities for automation and efficiency.
+Provide Feedback
+
+Speakers  
+
+
+ [Greg Ramsey](https://mms2026atmoa.sched.com/speaker/greg_ramsey)
+Microsoft MVP, Senior Enterprise Architect, MMS Staff
+
+
+
+ [Scott Corio](https://mms2026atmoa.sched.com/speaker/scott_corio.27sdm7bd)
+Microsoft MVP, Enterprise Cloud Architect, MMS Staff
+Boasting over 20 years in IT, Scott is not only an esteemed Enterprise Cloud Architect for a major healthcare giant, but he's also a Microsoft MVP in the Azure category. With a diverse portfolio spanning healthcare, non-profit, telecommunications, retail, and travel sectors, his expertise...  [Read More ](https://mms2026atmoa.sched.com/speaker/scott_corio.27sdm7bd)
+
+

@@ -10,6 +10,7 @@ What you will learn:
 * Implement Azure services securely and in a repeatable manner, ensuring consistent automation.
 * Access real-world examples, complete with code snippets to help you visualize solutions.
 * Gain the know-how to confidently create and deploy your own cloud solutions with Azure.
+Provide Feedback
 
 Speakers  
 

@@ -1,0 +1,26 @@
+Session Title: 
+From Bluescreens to Scripts: Enhancing Troubleshooting with Microsoft Copilot
+
+  Description:
+Transform repetitive troubleshooting tasks with Microsoft Copilot, a powerful ally for IT administrators and architects. Learn how to leverage Copilot to generate scripts, analyze event logs, summarize complex error states, and interpret memory dumps—all in natural language tailored to your environment. Streamline your operational efficiency with practical applications directly relevant to daily IT challenges.
+
+What you will learn:
+ 
+* Analyze bluescreen minidumps and receive actionable remediation guidance tailored to your environment. 
+* Efficiently parse and summarize noisy event logs to eliminate critical troubleshooting noise.
+* Quickly create documentation, reports, and communication artifacts in seconds for faster issue resolution.
+* Easily generate PowerShell and automation scripts using simple prompts to enhance productivity.
+Provide Feedback
+
+Speakers  
+
+
+ [Johan Arwidmark](https://mms2026atmoa.sched.com/speaker/arwidmark)
+Technical Fellow, ViaMonstra Online Academy
+Johan Arwidmark is a Technical Fellow with ViaMonstra Online Academy and Mirolus, specializing in Systems Management and Enterprise Windows Deployment Solutions. Johan also speaks at several conferences each year, including MMS and Ignite events around the world. He is actively involved...  [Read More ](https://mms2026atmoa.sched.com/speaker/arwidmark)
+
+ [Mikael Nyström](https://mms2026atmoa.sched.com/speaker/mikael_nystrom.27sn47jl)
+Microsoft MVP, Geek, Truesec
+I am veteran of the industry and I can honestly tell you that I am not your regular consultant. I change wrong into right and explain the “why” behind it to make sure that you, my client, understands, trust, and buys-in to the path that we continue on. As a long time Microsoft...  [Read More ](https://mms2026atmoa.sched.com/speaker/mikael_nystrom.27sn47jl)
+
+

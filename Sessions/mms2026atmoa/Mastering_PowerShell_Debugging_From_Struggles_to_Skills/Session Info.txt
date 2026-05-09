@@ -8,6 +8,7 @@ What you will learn:
  The basic commands and steps for debugging PowerShell.Setup VSCode to allow integrated debugging of PowerShell scripts.How to debug scripts running as system or on remote system.Secure your scripts and prevent others from hijacking your PowerShell session.
 
 
+Provide Feedback
 
 Speakers  
 

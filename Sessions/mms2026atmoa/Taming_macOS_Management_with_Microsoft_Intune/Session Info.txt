@@ -10,6 +10,7 @@ What you will learn:
 * Discover how Platform SSO enhances the user experience for macOS administration.
 * Access real-world examples of effective configurations and tailored policies.
 * Explore best practices that elevate macOS management to match Windows capabilities.
+Provide Feedback
 
 Speakers  
 

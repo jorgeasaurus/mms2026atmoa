@@ -1,0 +1,113 @@
+
+#Required Modules
+
+Install-Module ('Microsoft.Graph.Authentication', 'Microsoft.Graph.DeviceManagement', 'Microsoft.Graph.Identity.DirectoryManagement', 'Microsoft.Graph.Users') -Force -AllowClobber
+
+#region Authentication
+
+#region Authenticate using Device Code
+Disconnect-MgGraph
+Connect-MgGraph -UseDeviceCode
+#endregion Authenticate using Device Code
+
+#region Authenticate using a UI
+Disconnect-MgGraph
+Connect-MgGraph
+#endregion Authenticate using a UI
+
+#region Authenticate using a Client Secret
+Disconnect-MgGraph
+# Teant ID
+$TenantID = "<TENANT ID HERE>"
+#User = Client ID
+$User = "<CLIENT ID HERE>"
+#Password = Client Secret
+$PWord = ConvertTo-SecureString -String "<CLIENT SECRET HERE>" -AsPlainText -Force
+#Create a PSCredential object
+$Credential = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList $User, $PWord
+#Connect to the Graph
+Connect-MgGraph -TenantId $TenantID -ClientSecretCredential $Credential
+
+$Device = Get-MgDevice -Top 1
+$managedDevice = Get-MgDeviceManagementManagedDevice
+$user = Get-MgUser -Top 1
+#endregion Authenticate using a Client Secret
+
+#region Authenticate using a Certificate
+#Create a certificate
+$cert = New-SelfSignedCertificate -FriendlyName "MMSMOA Graph Foundation" –Subject "Certificate for MS Graph DEMO" -CertStoreLocation "Cert:\CurrentUser\My"
+Start-Process 'certmgr.msc'
+#Export the certificate
+#This certificate will need to be on each machine that you try to authenticate with.
+Export-Certificate -Cert $cert -FilePath "C:\Temp\GraphCert.cer"
+
+$TenantID = "<TENANT ID HERE>"
+$clientID = "<Client ID HERE>"
+
+# Connect with Common Name
+Disconnect-MgGraph
+Connect-MgGraph -ClientId $clientID -TenantId $TenantID -CertificateSubjectName "CN=Certificate for MS Graph DEMO"
+
+#Connect with Thumbprint
+Disconnect-MgGraph
+Connect-MgGraph -ClientId $clientID -TenantId $TenantID -CertificateThumbprint "<CERT THUMBPRINT HERE>"
+#endregion Authenticate using a Certificate
+
+#endregion Authentication
+
+#region Graph API Calls
+
+#region Get Users
+
+$Users = Get-MgUser
+$Users
+
+$invokeReqUsers = Invoke-MgGraphRequest -Method GET -Uri "https://graph.microsoft.com/v1.0/users"
+$invokeReqUsers
+$invokeReqUsers.value
+
+#endregion Get Users
+
+#region Get Intune Policy, Settings, Export & Import
+#Connect with Scope
+#Connect-MgGraph -Scopes DeviceManagementConfiguration.Read.All
+#Connect-MgGraph -Scopes DeviceManagementConfiguration.ReadWrite.All
+
+$policyID = "<POLICY ID HERE>"
+$invokeReqPolicy = Invoke-MgGraphRequest -Method GET -Uri "https://graph.microsoft.com/beta/deviceManagement/configurationPolicies('$policyID')"
+$invokeReqPolicySettings = Invoke-MgGraphRequest -Method GET -Uri "https://graph.microsoft.com/beta/deviceManagement/configurationPolicies('$policyID')/settings"
+
+#Paginate
+$All_GraphRequest = @()
+$All_GraphRequest += $invokeReqPolicySettings
+while ($invokeReqPolicySettings.'@odata.nextLink')
+{
+    $invokeReqPolicySettings_NextLink = @{
+        Method = "GET"
+        URI    = $invokeReqPolicySettings.'@odata.nextLink'
+    }
+    $invokeReqPolicySettings = Invoke-MgGraphRequest @invokeReqPolicySettings_NextLink -ErrorAction Stop
+    $All_GraphRequest += $invokeReqPolicySettings
+}
+$policySettings = $All_GraphRequest | Select-Object -ExpandProperty Value   
+
+$exportPolicyValue = $invokeReqPolicy
+$exportPolicyValue.settings = $policySettings
+
+#Export JSON
+$invokeReqPolicy | ConvertTo-Json -Depth 10 | Out-File "C:\Temp\$($invokeReqPolicy.name).json"
+
+#Import JSON Policy
+$jsonPolicy = Get-Content "C:\Temp\$($invokeReqPolicy.name).json" | ConvertFrom-Json
+$jsonPolicy = $jsonPolicy | Select-Object -ExcludeProperty roleScopeTagIds, id, createdDateTime, lastModifiedDateTime, settingCount, creationSource, priorityMetaData
+$jsonPolicy.name = $jsonPolicy.name + " - MMS MOA Import"
+
+#Copy to Clipboard for Reference
+$jsonPolicy | ConvertTo-Json -Depth 10 | Set-Clipboard
+
+Invoke-MgGraphRequest POST -Uri "https://graph.microsoft.com/beta/deviceManagement/configurationPolicies" -Body ( $jsonPolicy | ConvertTo-Json -Depth 10 )
+
+
+#endregion Get Intune Policy
+
+#endregion Graph API Calls

@@ -1,0 +1,26 @@
+Session Title: 
+From Meh to Meaningful: A Practical Guide to Microsoft Secure Score
+
+  Description:
+Secure Score serves as a strategic tool for Security Admins to evaluate and enhance their organization's security posture. This session clarifies what Secure Score measures, its context, and the risks of pursuing a perfect score. Gain insights on effectively leveraging Microsoft capabilities for meaningful metrics, aligning security efforts with business risks, and using Secure Score as a strategic decision-making tool instead of just a compliance checkbox.
+
+What you will learn:
+ 
+* Discover how Secure Score enhances visibility into your security posture and aids in risk-based decision-making. 
+* Recognize the overlap between Intune and Security admins, emphasizing the importance of collaboration over competition.
+* Utilize existing resources effectively, avoiding the need for numerous additional agents.
+* Gain practical strategies to transform Secure Score insights into meaningful actions that align with organizational goals.
+Provide Feedback
+
+Speakers  
+
+
+ [Maurice Daly](https://mms2026atmoa.sched.com/speaker/maurice.daly)
+Microsoft MVP, Senior Security Architect, Patch My PC
+Maurice has been working in the IT industry for the past 25 years. His focus is on the areas of Windows deployment, device management, Entra ID security, and secure productivity. Maurice has been an MCSE since 2008 and received his first MVP award in Enterprise Mobility (now Security...  [Read More ](https://mms2026atmoa.sched.com/speaker/maurice.daly)
+
+ [Carrie Cook](https://mms2026atmoa.sched.com/speaker/carrie497)
+Security Evangelist, Patch My PC
+
+
+

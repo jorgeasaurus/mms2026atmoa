@@ -10,6 +10,7 @@ What you will learn:
 * Discover quirky and fascinating facts about the PowerShell language that elevate your expertise.
 * Refresh your memory on essential concepts in PowerShell that are frequently overlooked.
 * Have a chance to win prizes while enhancing your PowerShell knowledge in a fun-filled atmosphere.
+Provide Feedback
 
 Speakers  
 

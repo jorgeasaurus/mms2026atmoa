@@ -10,7 +10,17 @@ What you will learn:
 * Navigate effectively as an Endpoint Management admin in environments with enforced script allowlisting.
 * Articulate the real-world benefits of implementing script allowlisting in your organization.
 * Learn strategies to minimize operational challenges while enhancing security through script allowlisting.
+Provide Feedback
+
+Speakers  
 
 
+ [Tom Degreef](https://mms2026atmoa.sched.com/speaker/tom_degreef.1xqbm359)
+Senior Consultant, OSCC
+Tom has been a Configmgr consultant for several years and has been a Microsoft Support Escalation Engineer for over 2 years. Tom became an independent Configmgr Consultant again and delivers consultancy for just about anything that is EMS or Systems Management related. The focus has...  [Read More ](https://mms2026atmoa.sched.com/speaker/tom_degreef.1xqbm359)
+
+ [Kim Oppalfens](https://mms2026atmoa.sched.com/speaker/kim_oppalfens.27sn3ymy)
+Microsoft MVP, Senior Consultant, OSCC
+Kim Oppalfens was awarded as an MVP 1st of April 2005, which makes him one of a couple of ConfigMgr April fool's MVP's. Kim is a self-proclaimed quiet, shy guy and overall nice guy, although part of that statement is currently under stress because of the evil influence of certain...  [Read More ](https://mms2026atmoa.sched.com/speaker/kim_oppalfens.27sn3ymy)
 
 

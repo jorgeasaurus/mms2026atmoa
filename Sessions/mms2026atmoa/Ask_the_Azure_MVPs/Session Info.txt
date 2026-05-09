@@ -9,6 +9,7 @@ What you will learn:
 * Gain expert answers to your Azure-related questions directly from the MVPs. 
 * Discover insights that enhance your understanding of Azure technologies.
 * Benefit from a collective Q
+Provide Feedback
 
 
 

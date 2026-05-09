@@ -1,0 +1,26 @@
+Session Title: 
+Inside Intune: Internals, Diagnostics, and Troubleshooting
+
+  Description:
+Dive into the inner workings of Intune, uncovering data flow, policy processing, and state reporting beyond the portal. Acquire practical troubleshooting skills for issues related to enrollment, policies, compliance, and app deployment through logs and built-in diagnostics. Focus on real-world scenarios and repeatable approaches that can be implemented immediately in production environments.
+
+What you will learn:
+ 
+* Gain a comprehensive understanding of Intune's data flow and processing mechanisms. 
+* Learn effective techniques for troubleshooting policies, applications, and compliance issues.
+* Apply repeatable methods to tackle real-world Intune problems efficiently.
+* Enhance diagnostic skills using logs and built-in tools for swift issue resolution.
+Provide Feedback
+
+Speakers  
+
+
+ [Johan Arwidmark](https://mms2026atmoa.sched.com/speaker/arwidmark)
+Technical Fellow, ViaMonstra Online Academy
+Johan Arwidmark is a Technical Fellow with ViaMonstra Online Academy and Mirolus, specializing in Systems Management and Enterprise Windows Deployment Solutions. Johan also speaks at several conferences each year, including MMS and Ignite events around the world. He is actively involved...  [Read More ](https://mms2026atmoa.sched.com/speaker/arwidmark)
+
+ [Andrew Johnson](https://mms2026atmoa.sched.com/speaker/andrew_johnson.27sn45ur)
+Solutions Architect, Higher Education
+Andrew has served in various technical and leadership roles in IT over 15 years, spending most of his time in higher education. He's always looking for new ways to perform tasks more efficiently and share knowledge with others. When he is not working with IT - professionally or in...  [Read More ](https://mms2026atmoa.sched.com/speaker/andrew_johnson.27sn45ur)
+
+

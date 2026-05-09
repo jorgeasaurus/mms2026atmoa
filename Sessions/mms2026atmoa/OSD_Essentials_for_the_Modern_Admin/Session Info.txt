@@ -1,0 +1,30 @@
+Session Title: 
+OSD Essentials for the Modern Admin
+
+  Description:
+Gain a foundational understanding of Operating System Deployment (OSD) tailored for today's IT professionals. Explore crucial topics including boot media management, Windows media handling, driver management, PXE, and essential troubleshooting techniques. This session offers a comprehensive overview of Windows Deployment, ensuring you see how all components interact without delving too deeply into any specific area. Ideal for those needing a refresher or starting their journey in OSD.
+
+What you will learn:
+ 
+* Understand OSD and explore current deployment options available in today's environment. 
+* Learn how to effectively manage boot media and leverage the Windows Assessment and Deployment Kit (ADK).
+* Master managing Windows media, updates, features, and app packages for efficient deployments.
+* Acquire valuable troubleshooting tips to resolve common OSD challenges.
+Provide Feedback
+
+Speakers  
+
+
+ [Mike Terrill](https://mms2026atmoa.sched.com/speaker/mike_terrill.27sn475c)
+Principal Engineer, Microsoft MVP, 2Pint Software
+Mike is a Principal Engineer at 2Pint Software, specializing in the design and implementation of operating system deployments, operating system upgrades, peer-to-peer, bandwidth management, and PXE solutions as they related to various systems management platforms (Configuration Manager/Intune...  [Read More ](https://mms2026atmoa.sched.com/speaker/mike_terrill.27sn475c)
+
+ [Gary Blok](https://mms2026atmoa.sched.com/speaker/gary_blok.7z9ifl8)
+Engineer, 2Pint Software
+Working on Intune & ConfigMgr along with Azure to develop improvements in endpoint management and reporting.
+
+I've worked in several areas over the past year, hardware OEM, finacial, state government, small startups, K-12, higher ed, and consulting.
+
+Best known for blogging on GARYTOWN, mostly around OSD, WaaS and task sequences in general...  [Read More ](https://mms2026atmoa.sched.com/speaker/gary_blok.7z9ifl8)
+
+

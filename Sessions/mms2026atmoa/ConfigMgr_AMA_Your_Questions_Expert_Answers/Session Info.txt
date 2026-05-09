@@ -1,0 +1,43 @@
+Session Title: 
+ConfigMgr AMA: Your Questions, Expert Answers
+
+  Description:
+Engage in an interactive Q&A session focused on ConfigMgr. Bring challenges related to inventorying unique items, generating reports, troubleshooting issues, or ensuring site health. Experts provide practical, real-world guidance with no presentations, delivering direct answers to help maximize the capabilities of ConfigMgr.
+
+What you will learn:
+ 
+* Receive direct solutions to your ConfigMgr challenges from seasoned professionals. 
+* Learn effective techniques for inventory management, reporting, and troubleshooting.
+* Gain insights on confirming and maintaining a healthy ConfigMgr environment.
+* Discover strategies to customize ConfigMgr for your organization’s specific needs.
+Provide Feedback
+
+Speakers  
+
+
+ [Danny Guillory](https://mms2026atmoa.sched.com/speaker/dannygu)
+Senior Program Manager, Microsoft
+
+
+
+ [Sherry Kissinger](https://mms2026atmoa.sched.com/speaker/sherry_kissinger.1sw4e0rd)
+CM Maestro, Cardinal Health
+For ConfigMgr, talk to me about large hierarchies, inventory customizations, compliance settings, and reporting for the SQL and SRS-challenged.
+
+ [Matt Wreede](https://mms2026atmoa.sched.com/speaker/matt.wreede)
+Client Systems Engineer, Cardinal Health
+Matt has 15 years’ experience in Client Management, starting as a ‘technician’ and working in multiple industries: Health Care, Government, and Insurance. His focus and deepest love in the ConfigMgr space has always been OSD, and these days, AutoPilot and OSD mixture, and is...  [Read More ](https://mms2026atmoa.sched.com/speaker/matt.wreede)
+
+ [Garth Jones](https://mms2026atmoa.sched.com/speaker/garth_jones.27sny4p0)
+Senior Product Manager Endpoint Insights, Recast Software
+
+Garth Jones is a Senior Product Manager at Recast Software with deep roots in endpoint management, automation, and reporting. With decades of hands‑on experience spanning ConfigMgr (SCCM), Intune, and modern workplace solutions, Garth focuses on turning complex technical challenges into practical...  [Read More ](https://mms2026atmoa.sched.com/speaker/garth_jones.27sny4p0)Hosts  
+
+
+ [David James](https://mms2026atmoa.sched.com/exhibitor/david_james.27tenlfm)
+Vice President of Engineering, Patch My PC
+David James is the CTO and VP of Engineering at Patch My PC. He was previously the Director of Engineering at Microsoft for ConfigMgr. A short bio stolen from another site:
+
+Studied Computer Engineering and Music Theory/Composition at University of Utah. Joined Microsoft in 1999 to work on SMS Installer, and eventually SMS 2.0 SP2.Has worked on every version of SMS/SCCM since.Was an engineering manager in Intune, 2012-2015.Outside of work, likes to c...  [Read More ](https://mms2026atmoa.sched.com/exhibitor/david_james.27tenlfm)
+
+

@@ -10,6 +10,7 @@ What you will learn:
 * Discover primitive shapes and how to find them, forming the building blocks for your designs.
 * Master the use of helpers, sketches, and timelines in Fusion to streamline your workflow.
 * Understand the nuances of Boolean operations and explore their various states for complex modeling.
+Provide Feedback
 
 Speakers  
 

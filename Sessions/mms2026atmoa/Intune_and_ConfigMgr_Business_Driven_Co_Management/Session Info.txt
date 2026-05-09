@@ -1,0 +1,26 @@
+Session Title: 
+Intune and ConfigMgr: Business-Driven Co-Management
+
+  Description:
+Manage Azure AD-only and hybrid devices seamlessly with Co-Management. Dispel the myth that Azure AD-only environments eliminate ConfigMgr options and discover what is truly possible. Equip yourself with insights to make informed decisions tailored to business requirements, enhancing your organization’s management strategy and operational efficiency.
+
+What you will learn:
+ 
+* Implement flexible targeting strategies for Intune and ConfigMgr policies. 
+* Execute real-time actions such as 'Run Scripts', 'CMPivot', install applications, and collect logs.
+* Leverage integrated and customizable inventory and reporting capabilities.
+* Gain insights to help make informed decisions based on specific business needs.
+Provide Feedback
+
+Speakers  
+
+
+ [Tom Degreef](https://mms2026atmoa.sched.com/speaker/tom_degreef.1xqbm359)
+Senior Consultant, OSCC
+Tom has been a Configmgr consultant for several years and has been a Microsoft Support Escalation Engineer for over 2 years. Tom became an independent Configmgr Consultant again and delivers consultancy for just about anything that is EMS or Systems Management related. The focus has...  [Read More ](https://mms2026atmoa.sched.com/speaker/tom_degreef.1xqbm359)
+
+ [Kim Oppalfens](https://mms2026atmoa.sched.com/speaker/kim_oppalfens.27sn3ymy)
+Microsoft MVP, Senior Consultant, OSCC
+Kim Oppalfens was awarded as an MVP 1st of April 2005, which makes him one of a couple of ConfigMgr April fool's MVP's. Kim is a self-proclaimed quiet, shy guy and overall nice guy, although part of that statement is currently under stress because of the evil influence of certain...  [Read More ](https://mms2026atmoa.sched.com/speaker/kim_oppalfens.27sn3ymy)
+
+

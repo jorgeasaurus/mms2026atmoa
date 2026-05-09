@@ -1,0 +1,28 @@
+Session Title: 
+Securing Your Microsoft 365 Tenant: Essential Strategies
+
+  Description:
+Is your Microsoft 365 tenant as secure as you think? Most breaches occur due to overlooked basics surrounding identity, devices, data, and governance. This 90-minute crash course dives into the Microsoft security stack, including Entra ID, Intune, Defender XDR, and Purview, focusing on critical controls and configurations that yield significant results. Gain actionable insights to effectively allocate your time and budget for preventing business compromises.
+
+What you will learn:
+ 
+* Identity acts as the new perimeter in modern security. 
+* Ensure business data remains accessible only on business devices.
+* Understand that Purview should not be your initial step in security strategy.
+* AI integration is underway; learn how to manage its implications.
+Provide Feedback
+
+Speakers  
+
+
+ [Lewis Barry](https://mms2026atmoa.sched.com/speaker/lewisbarry612)
+Principal Security Architect, Microsoft MVP | inforcer
+I usually work with SMB customers across Intune, Entra, Defender and M365 in an MSP setting.
+
+ [Ewelina Paczkowska](https://mms2026atmoa.sched.com/speaker/ewelinapaczkowska)
+Data Security & Governance Lead, Threatscape
+MVP, Data Security & Governance Lead, Microsoft 355 Security & Compliance User group co-organiser, creator of welkasworld.com
+
+
+
+

@@ -1,0 +1,26 @@
+Session Title: 
+Drift Elimination: Mastering Intune Security Baselines and CIS Benchmarks
+
+  Description:
+Configuration drift poses a significant threat to enterprise security, often due to relaxed default settings and inconsistent policies. Master Microsoft Intune security baselines alongside CIS Benchmarks Level 1 and Level 2 for a robust defense. Engage in live demos that explore the latest Intune baselines for Windows 10/11, Microsoft Edge, and Microsoft 365 Apps while gaining practical insights for customization, conflict avoidance, and production-safe rollouts.
+
+What you will learn:
+ 
+* Deploy and customize the latest Intune security baselines for Windows 10/11, Microsoft Edge, and Microsoft 365 Apps with live demonstrations of versioning and conflict avoidance. 
+* Compare and map CIS Benchmarks Level 1 and Level 2 to Intune policies, identifying enhancements over Microsoft defaults and implementation strategies.
+* Utilize official CIS assessment templates and tools to document configurations, track deviations, and prepare audit-ready compliance evidence.
+* Gain insights into effective, production-safe rollout strategies for Intune policies to mitigate security risks and ensure compliance.
+Provide Feedback
+
+Speakers  
+
+
+ [Steve Jesok](https://mms2026atmoa.sched.com/speaker/steve_jesok.28jia8kd)
+Systems Management and Automation Professional, Banking/Finance
+I am an experienced information technology professional specializing in IT operations, systems management, and automation within large-scale enterprise environments. My career has focused on maintaining and optimizing complex IT infrastructures, where I have developed deep expertise...  [Read More ](https://mms2026atmoa.sched.com/speaker/steve_jesok.28jia8kd)
+
+ [Matthew Teegarden](https://mms2026atmoa.sched.com/speaker/matthew_teegarden.81ywic9)
+Chief Architect of Configuration Drift Elimination and Compliance Sovereignty, EmptyGarden
+Matthew Teegarden is a seasoned professional dedicated to helping organizations optimize productivity, services, and processes through Microsoft technologies, with a primary focus on Microsoft Intune for configuration drift, compliance, and managing baselines for Windows and Edge...  [Read More ](https://mms2026atmoa.sched.com/speaker/matthew_teegarden.81ywic9)
+
+

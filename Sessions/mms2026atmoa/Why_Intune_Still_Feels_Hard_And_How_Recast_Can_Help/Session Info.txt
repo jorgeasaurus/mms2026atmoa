@@ -1,0 +1,17 @@
+Session Title: 
+Why Intune Still Feels Hard (And How Recast Can Help)
+
+  Description:
+Leverage Recast to manage Intune and co-managed devices with enhanced efficiency. Discover Right Click Tools tailored for Intune, Entra, and Autopilot, enabling application patching, full-lifecycle app management, and real-time endpoint visibility. These tools streamline deployment tracking, reduce operational complexity, and enhance visibility in co-managed environments.
+
+What you will learn:
+ 
+* Deploy applications effortlessly from a comprehensive and managed catalog without the need for repackaging. 
+* Gain greater control over third-party app compliance with customizable testing rings, rollout strategies, and update timing.
+* Achieve real-time visibility across co-managed environments, resolving issues seamlessly without console hopping.
+* Expand Right Click Tools' capabilities beyond Intune and ConfigMgr to any web-based platform, including Power BI and ServiceNow.
+Provide Feedback
+
+
+
+
